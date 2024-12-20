@@ -1,4 +1,16 @@
 {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2024-12-20 21:02:26 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2024-12-20 20:42:26 +0000"
@@ -29,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 20:56:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-20 20:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-20 21:02:38 +0000"
     },
     "done": true
   },
@@ -59,15 +83,39 @@
     },
     "done": true
   },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2024-12-20 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 20:56:55 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-20 20:42:26 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/bone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-20 20:58:33 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-20 20:42:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/bone_slab": {
+    "criteria": {
+      "has_item": "2024-12-20 20:58:33 +0000"
     },
     "done": true
   },
@@ -83,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 20:56:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-20 20:47:03 +0000"
@@ -92,6 +146,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-20 20:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 20:56:55 +0000"
     },
     "done": true
   },
@@ -119,9 +179,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/skull_block": {
+    "criteria": {
+      "has_item": "2024-12-20 20:58:33 +0000"
+    },
+    "done": true
+  },
   "under_the_moon:in_the_pines": {
     "criteria": {
       "in_the_pines_0": "2024-12-20 20:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 20:56:55 +0000"
     },
     "done": true
   },
@@ -134,6 +206,12 @@
   "under_the_moon:root": {
     "criteria": {
       "root_0": "2024-12-20 20:42:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2024-12-20 20:56:55 +0000"
     },
     "done": true
   },
@@ -227,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 20:56:55 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-20 20:42:27 +0000"
@@ -245,6 +329,7 @@
       "minecraft:river": "2024-12-20 20:43:36 +0000",
       "minecraft:forest": "2024-12-20 20:42:27 +0000",
       "minecraft:jungle": "2024-12-20 20:43:30 +0000",
+      "minecraft:flower_forest": "2024-12-20 21:03:53 +0000",
       "minecraft:savanna": "2024-12-20 20:44:30 +0000",
       "minecraft:plains": "2024-12-20 20:45:22 +0000"
     },
