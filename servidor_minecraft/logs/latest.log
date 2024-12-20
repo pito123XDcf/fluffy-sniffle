@@ -1042,3 +1042,24 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [20Dec2024 21:03:40.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [20Dec2024 21:05:35.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Gave 1 [Barrier] to IkappoAnyho_]
 [20Dec2024 21:06:01.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:07:34.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/5035, l='ServerLevel[world]', x=-680.24, y=64.00, z=1169.05] died, message: 'Oceanographer was slain by Zombie'
+[20Dec2024 21:07:51.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Dark Metallurgy]
+[20Dec2024 21:08:12.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:08:58.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:08:58.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:10:22.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:11:23.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:11:44.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:12:42.091] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:12:47.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:12:47.991] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:13:27.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:14:01.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:14:01.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:14:01.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:14:05.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:14:12.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:14:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Set spawn point to -690, 64, 1170 [0.0] in minecraft:overworld for IkappoAnyho_]
+[20Dec2024 21:15:35.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:16:00.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[20Dec2024 21:16:17.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
