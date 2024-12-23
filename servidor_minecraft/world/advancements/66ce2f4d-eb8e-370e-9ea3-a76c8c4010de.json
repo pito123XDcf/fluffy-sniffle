@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-23 04:31:31 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2024-12-23 02:13:59 +0000"
@@ -423,6 +429,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-23 04:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-23 02:47:25 +0000"
@@ -609,9 +621,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-23 04:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-23 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-23 04:25:02 +0000"
     },
     "done": true
   },
@@ -684,6 +708,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:22:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/the_nether_is_full": {
+    "criteria": {
+      "shot_trident": "2024-12-23 04:31:29 +0000"
     },
     "done": true
   },
@@ -1206,6 +1236,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-23 02:47:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-23 04:29:41 +0000"
     },
     "done": true
   },
@@ -1762,6 +1798,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-23 04:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2024-12-23 02:25:31 +0000",
@@ -1829,6 +1871,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 04:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-23 02:54:38 +0000"
@@ -1862,6 +1910,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 02:36:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/angel_with_a_shotgun": {
+    "criteria": {
+      "shot_trident": "2024-12-23 04:31:27 +0000"
     },
     "done": true
   },
