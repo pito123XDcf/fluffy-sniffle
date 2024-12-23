@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-23 02:41:24 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-23 03:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-23 02:54:34 +0000"
@@ -218,6 +230,18 @@
   "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 02:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-23 03:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
     },
     "done": true
   },
@@ -320,6 +344,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-23 03:17:14 +0000",
+      "minecraft:piglin_brute": "2024-12-23 03:51:58 +0000",
       "minecraft:spider": "2024-12-23 03:07:45 +0000",
       "minecraft:zombie": "2024-12-23 03:08:05 +0000"
     },
@@ -409,9 +434,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-23 03:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-23 03:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
     },
     "done": true
   },
@@ -472,6 +509,24 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-23 03:50:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-23 03:50:47 +0000"
     },
     "done": true
   },
@@ -547,6 +602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-23 03:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 02:56:04 +0000"
@@ -586,6 +647,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
     },
     "done": true
   },
@@ -721,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-23 02:42:45 +0000"
@@ -799,6 +872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-23 03:50:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-23 03:01:11 +0000"
@@ -838,6 +917,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
     },
     "done": true
   },
@@ -1189,6 +1274,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-23 03:58:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:53:36 +0000"
@@ -1351,6 +1442,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-23 03:46:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 02:47:34 +0000"
@@ -1405,6 +1502,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-23 03:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-23 02:41:24 +0000"
@@ -1420,6 +1523,12 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 02:47:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:58:21 +0000"
     },
     "done": true
   },
@@ -1493,7 +1602,9 @@
     "criteria": {
       "minecraft:taiga": "2024-12-23 02:48:48 +0000",
       "minecraft:birch_forest": "2024-12-23 03:32:54 +0000",
+      "minecraft:beach": "2024-12-23 03:56:54 +0000",
       "minecraft:dark_forest": "2024-12-23 03:02:37 +0000",
+      "minecraft:sparse_jungle": "2024-12-23 04:01:59 +0000",
       "minecraft:river": "2024-12-23 02:58:03 +0000",
       "minecraft:forest": "2024-12-23 02:37:00 +0000",
       "minecraft:lush_caves": "2024-12-23 03:10:55 +0000",
@@ -1505,6 +1616,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-23 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-23 03:52:40 +0000"
     },
     "done": true
   },
@@ -1595,6 +1712,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-23 03:50:47 +0000"
     },
     "done": true
   },
