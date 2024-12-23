@@ -548,3 +548,59 @@
 [23Dec2024 02:21:31.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [23Dec2024 02:22:10.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Teleported 2 entities to IkappoAnyho_]
 [23Dec2024 02:22:26.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Acquire Hardware]
+[23Dec2024 02:22:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [First Village]
+[23Dec2024 02:23:23.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[23Dec2024 02:23:23.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Ashes 'n Bones]
+[23Dec2024 02:23:50.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[23Dec2024 02:23:56.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[23Dec2024 02:24:09.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Suit Up]
+[23Dec2024 02:24:38.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Sweet Dreams]
+[23Dec2024 02:24:38.207] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Dec2024 02:25:25.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[23Dec2024 02:25:48.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:25:52.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:25:52.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:25:55.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:26:06.360] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:26:11.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[23Dec2024 02:26:11.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[23Dec2024 02:26:40.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:26:40.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:26:56.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:26:59.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Let's Get To Work]
+[23Dec2024 02:27:41.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OiaNN[/100.104.74.21:51943] logged in with entity id 6737 at (-5.5, 117.0, 3.5)
+[23Dec2024 02:27:41.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN joined the game
+[23Dec2024 02:27:41.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Christmas]
+[23Dec2024 02:27:41.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [More Villagers Mod]
+[23Dec2024 02:27:44.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:27:59.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:05.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:05.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Teleported OiaNN to IkappoAnyho_]
+[23Dec2024 02:28:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [First Trade]
+[23Dec2024 02:28:16.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [What a Deal!]
+[23Dec2024 02:28:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Suit Up]
+[23Dec2024 02:28:34.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:35.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:47.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:47.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:52.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:52.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:28:52.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:29:28.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [First Village]
+[23Dec2024 02:29:52.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Wax Off]
+[23Dec2024 02:29:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has reached the goal [Off you go]
+[23Dec2024 02:30:06.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[23Dec2024 02:30:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [In The Pines]
+[23Dec2024 02:30:19.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:30:30.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Awkward cricket sound effect...]
+[23Dec2024 02:30:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Stone Age]
+[23Dec2024 02:30:54.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:31:18.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:31:51.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:32:03.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:32:19.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:32:22.763] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:32:22.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:32:38.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:32:41.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [In The Pines]
