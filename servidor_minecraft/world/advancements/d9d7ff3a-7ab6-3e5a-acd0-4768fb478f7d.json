@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 04:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-23 02:56:04 +0000"
@@ -551,6 +557,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-23 04:39:06 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-23 02:37:00 +0000"
@@ -572,6 +584,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-23 04:39:06 +0000"
     },
     "done": true
   },
@@ -875,6 +893,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 04:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-23 04:08:52 +0000"
@@ -890,6 +914,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:53:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2024-12-23 04:39:58 +0000"
     },
     "done": true
   },
@@ -1517,6 +1547,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 04:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 02:50:14 +0000"
@@ -1889,6 +1925,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-23 02:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-23 04:39:06 +0000"
     },
     "done": true
   },

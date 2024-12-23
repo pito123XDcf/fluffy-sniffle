@@ -113,6 +113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 04:11:45 +0000"
@@ -140,6 +152,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 04:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-23 04:18:03 +0000",
@@ -399,6 +423,18 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-23 03:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
     },
     "done": true
   },
@@ -636,9 +672,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-23 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2024-12-23 04:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-23 04:34:10 +0000"
     },
     "done": true
   },
@@ -780,6 +834,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 04:35:44 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2024-12-23 03:08:09 +0000"
@@ -813,6 +879,12 @@
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-12-23 03:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-23 04:34:09 +0000"
     },
     "done": true
   },
@@ -921,6 +993,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-23 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
     },
     "done": true
   },
@@ -1122,6 +1200,12 @@
     },
     "done": false
   },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_goat_horn": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2024-12-23 03:26:39 +0000"
@@ -1157,6 +1241,12 @@
       "plains": "2024-12-23 04:29:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
@@ -1284,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 03:10:19 +0000"
@@ -1383,6 +1479,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-23 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:mooncharm": {
+    "criteria": {
+      "mooncharm_0": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 04:34:10 +0000"
     },
     "done": true
   },
@@ -1534,9 +1642,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-23 04:36:15 +0000",
       "apple": "2024-12-23 03:50:45 +0000",
       "melon_slice": "2024-12-23 04:01:59 +0000",
       "beetroot": "2024-12-23 03:52:46 +0000",
+      "enchanted_golden_apple": "2024-12-23 04:36:44 +0000",
       "carrot": "2024-12-23 04:14:49 +0000"
     },
     "done": false
@@ -1544,6 +1654,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-23 04:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 04:34:10 +0000"
     },
     "done": true
   },
@@ -1595,6 +1717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 03:52:18 +0000"
@@ -1616,6 +1744,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-23 03:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-23 04:36:37 +0000"
     },
     "done": true
   },

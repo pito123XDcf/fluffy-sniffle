@@ -12171,3 +12171,167 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 04:34:36.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> comida pe :v
 [23Dec2024 04:34:55.364] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [23Dec2024 04:34:57.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:35:09.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jordirepitente=(> comida
+[23Dec2024 04:35:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has completed the challenge [Overkill]
+[23Dec2024 04:35:32.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:35:37.540] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[23Dec2024 04:35:40.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:35:41.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:35:51.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:35:53.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
+[23Dec2024 04:35:54.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:35:54.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:35:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> pero pasa comida mierda
+[23Dec2024 04:35:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> :,v
+[23Dec2024 04:36:06.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was slain by Ignis
+[23Dec2024 04:36:06.948] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-737, y:64, z:1228, dim:minecraft:overworld]
+[23Dec2024 04:36:06.965] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:36:09.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:09.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:10.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:10.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:25.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> huayta comida w
+[23Dec2024 04:36:31.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:31.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:38.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD has made the advancement [A Day at the Fair]
+[23Dec2024 04:36:39.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was slain by Ignis
+[23Dec2024 04:36:39.082] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-775, y:62, z:1237, dim:minecraft:overworld]
+[23Dec2024 04:36:39.090] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:36:41.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:41.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:42.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:43.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:36:43.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:37:10.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was slain by Ignis
+[23Dec2024 04:37:10.693] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-760, y:63, z:1228, dim:minecraft:overworld]
+[23Dec2024 04:37:10.697] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:37:13.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:37:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager was slain by Ignis
+[23Dec2024 04:37:13.991] [Server thread/DEBUG] [tombstone/]: A new grave of the player Peruvillager was created at position [x:-774, y:63, z:1218, dim:minecraft:overworld]
+[23Dec2024 04:37:14.003] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:37:14.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:37:14.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:37:16.628] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:37:16.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:37:22.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:01.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:01.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:02.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD was slain by Ignis
+[23Dec2024 04:38:02.168] [Server thread/DEBUG] [tombstone/]: A new grave of the player RG_LeonXD was created at position [x:-768, y:67, z:1203, dim:minecraft:overworld]
+[23Dec2024 04:38:02.176] [Server thread/INFO] [tombstone/]: The player RG_LeonXD has successfully been saved
+[23Dec2024 04:38:03.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> huaytahaz algo carajo
+[23Dec2024 04:38:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> :,V
+[23Dec2024 04:38:08.814] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:08.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:12.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:15.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Teleported 4 entities to IkappoAnyho_]
+[23Dec2024 04:38:16.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> da gaps kbron
+[23Dec2024 04:38:16.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has reached the goal [Chain Death]
+[23Dec2024 04:38:16.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager was doomed to fall
+[23Dec2024 04:38:16.712] [Server thread/DEBUG] [tombstone/]: A new grave of the player Peruvillager was created at position [x:-774, y:63, z:1220, dim:minecraft:overworld]
+[23Dec2024 04:38:16.720] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:38:20.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[23Dec2024 04:38:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> c
+[23Dec2024 04:38:28.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:38:28.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:38:39.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:39.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:38:42.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was slain by Ignis
+[23Dec2024 04:38:42.584] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-785, y:59, z:1240, dim:minecraft:overworld]
+[23Dec2024 04:38:42.595] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:39:01.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager was slain by The Leviathan
+[23Dec2024 04:39:08.886] [Server thread/DEBUG] [tombstone/]: A new grave of the player Peruvillager was created at position [x:-741, y:63, z:1234, dim:minecraft:overworld]
+[23Dec2024 04:39:08.897] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:39:13.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD was killed by Ignis using magic
+[23Dec2024 04:39:13.789] [Server thread/DEBUG] [tombstone/]: A new grave of the player RG_LeonXD was created at position [x:-770, y:63, z:1223, dim:minecraft:overworld]
+[23Dec2024 04:39:13.794] [Server thread/INFO] [tombstone/]: The player RG_LeonXD has successfully been saved
+[23Dec2024 04:39:17.948] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was slain by Ignis
+[23Dec2024 04:39:18.336] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-768, y:63, z:1226, dim:minecraft:overworld]
+[23Dec2024 04:39:18.379] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:39:20.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:20.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:22.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:22.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:22.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:22.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:23.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:28.307] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD was killed by The Leviathan using magic
+[23Dec2024 04:39:36.495] [Server thread/DEBUG] [tombstone/]: A new grave of the player RG_LeonXD was created at position [x:-743, y:62, z:1240, dim:minecraft:overworld]
+[23Dec2024 04:39:36.500] [Server thread/INFO] [tombstone/]: The player RG_LeonXD has successfully been saved
+[23Dec2024 04:39:39.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:45.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:45.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:54.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Dec2024 04:39:57.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:58.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:39:58.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has completed the challenge [The Extinguished Fire]
+[23Dec2024 04:40:04.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:40:05.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager was killed by The Leviathan using magic
+[23Dec2024 04:40:05.591] [Server thread/DEBUG] [tombstone/]: A new grave of the player Peruvillager was created at position [x:-740, y:61, z:1249, dim:minecraft:overworld]
+[23Dec2024 04:40:05.598] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:40:14.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has reached the goal [Here They Come]
+[23Dec2024 04:40:16.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager was killed by The Leviathan using magic
+[23Dec2024 04:40:16.301] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:40:16.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD was slain by Koboleton
+[23Dec2024 04:40:16.501] [Server thread/INFO] [tombstone/]: The player RG_LeonXD has successfully been saved
+[23Dec2024 04:40:22.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:40:22.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:40:34.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> o pero da algo op p
+[23Dec2024 04:40:36.312] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:40:43.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> gapples, totems :v
+[23Dec2024 04:40:51.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:40:52.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:41:31.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was exterminated by The Leviathan 's laser
+[23Dec2024 04:41:31.886] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-733, y:62, z:1242, dim:minecraft:overworld]
+[23Dec2024 04:41:31.890] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:41:33.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:41:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has left this dimension
+[23Dec2024 04:41:36.195] [Server thread/DEBUG] [tombstone/]: A new grave of the player Peruvillager was created at position [x:-737, y:55, z:1252, dim:minecraft:overworld]
+[23Dec2024 04:41:36.197] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:41:41.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RG_LeonXD moved wrongly!
+[23Dec2024 04:42:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has completed the challenge [Overkill]
+[23Dec2024 04:42:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has completed the challenge [A Multidimensional Predator]
+[23Dec2024 04:42:29.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RG_LeonXD> EZZZZZ
+[23Dec2024 04:42:54.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD was slain by Lord Pumpkinhead
+[23Dec2024 04:42:54.088] [Server thread/DEBUG] [tombstone/]: A new grave of the player RG_LeonXD was created at position [x:-766, y:63, z:1231, dim:minecraft:overworld]
+[23Dec2024 04:42:54.092] [Server thread/INFO] [tombstone/]: The player RG_LeonXD has successfully been saved
+[23Dec2024 04:42:57.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:43:05.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:43:09.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager died
+[23Dec2024 04:43:09.494] [Server thread/DEBUG] [tombstone/]: A new grave of the player Peruvillager was created at position [x:-752, y:59, z:1254, dim:minecraft:overworld]
+[23Dec2024 04:43:09.498] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:43:29.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:43:29.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:43:30.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD was slain by Lord Pumpkinhead
+[23Dec2024 04:43:30.593] [Server thread/DEBUG] [tombstone/]: A new grave of the player RG_LeonXD was created at position [x:-765, y:62, z:1235, dim:minecraft:overworld]
+[23Dec2024 04:43:30.606] [Server thread/INFO] [tombstone/]: The player RG_LeonXD has successfully been saved
+[23Dec2024 04:43:33.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:43:53.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:43:53.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:43:57.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:44:01.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:44:01.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:44:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jordirepitente=(> xdddd
+[23Dec2024 04:44:05.263] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:44:21.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was slain by Lord Pumpkinhead
+[23Dec2024 04:44:21.984] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-770, y:63, z:1221, dim:minecraft:overworld]
+[23Dec2024 04:44:22.002] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:44:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Teleported 4 entities to IkappoAnyho_]
+[23Dec2024 04:44:26.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> o huayta pasa creativo w, para ver
+[23Dec2024 04:44:34.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD became death, the destroyer of worlds
+[23Dec2024 04:44:34.391] [Server thread/DEBUG] [tombstone/]: A new grave of the player RG_LeonXD was created at position [x:-779, y:63, z:1213, dim:minecraft:overworld]
+[23Dec2024 04:44:34.400] [Server thread/INFO] [tombstone/]: The player RG_LeonXD has successfully been saved
+[23Dec2024 04:44:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager was reduced to atoms
+[23Dec2024 04:44:34.842] [Server thread/DEBUG] [tombstone/]: A new grave of the player Peruvillager was created at position [x:-757, y:65, z:1197, dim:minecraft:overworld]
+[23Dec2024 04:44:34.846] [Server thread/INFO] [tombstone/]: The player Peruvillager has successfully been saved
+[23Dec2024 04:44:54.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 04:45:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Crisis Adverted]
+[23Dec2024 04:45:12.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( was doomed to fall
+[23Dec2024 04:45:12.287] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-782, y:67, z:1197, dim:minecraft:overworld]
+[23Dec2024 04:45:12.288] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 04:45:17.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jordirepitente=( lost connection: Disconnected
+[23Dec2024 04:45:17.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( left the game
