@@ -110,6 +110,7 @@
       "minecraft:jungle": "2024-12-20 20:43:30 +0000",
       "minecraft:snowy_beach": "2024-12-20 23:28:21 +0000",
       "minecraft:flower_forest": "2024-12-20 21:03:53 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-23 02:43:30 +0000",
       "minecraft:savanna": "2024-12-20 20:44:30 +0000",
       "minecraft:plains": "2024-12-20 20:45:22 +0000"
     },
@@ -1260,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-23 02:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-23 02:34:30 +0000"
@@ -1314,6 +1321,12 @@
     },
     "done": true
   },
+  "under_the_moon:is_it_alive": {
+    "criteria": {
+      "is_it_alive_0": "2024-12-23 02:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-23 02:34:30 +0000"
@@ -1362,9 +1375,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-23 02:42:06 +0000"
+    },
+    "done": true
+  },
   "under_the_moon:sends_quills_down_my_spine": {
     "criteria": {
       "sends_quills_down_my_spine_0": "2024-12-23 02:38:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-23 02:46:08 +0000"
     },
     "done": true
   },
@@ -1380,9 +1405,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-23 02:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-23 02:46:03 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/blueprint_table": {
     "criteria": {
       "has_paper": "2024-12-23 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:mooncharm": {
+    "criteria": {
+      "mooncharm_0": "2024-12-23 02:39:08 +0000"
     },
     "done": true
   },
