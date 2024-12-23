@@ -874,3 +874,61 @@
 [23Dec2024 03:02:37.231] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61a4d1c6[id=<null>,name=RG_LeonXD,properties={},legacy=false] (/100.115.140.81:54405) lost connection: Connection closed - mismatched mod channel list
 [23Dec2024 03:02:43.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Magic Writing]
 [23Dec2024 03:02:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Suit Up]
+[23Dec2024 03:04:32.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IkappoAnyho_ lost connection: Disconnected
+[23Dec2024 03:04:32.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ left the game
+[23Dec2024 03:05:49.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Isn't It Iron Pick]
+[23Dec2024 03:07:45.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Monster Hunter]
+[23Dec2024 03:08:09.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RG_LeonXD[/100.115.140.81:54537] logged in with entity id 18861 at (8.5, 110.0, -5.5)
+[23Dec2024 03:08:09.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD joined the game
+[23Dec2024 03:08:09.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD has made the advancement [Christmas]
+[23Dec2024 03:08:09.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD has made the advancement [More Villagers Mod]
+[23Dec2024 03:08:09.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:09.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:09.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:09.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:10.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:10.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:10.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:12.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [A Strange Grave Dust]
+[23Dec2024 03:08:24.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> ese webon p XD
+[23Dec2024 03:08:27.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IkappoAnyho_[/100.127.221.74:57870] logged in with entity id 19027 at (-982.3209484289816, 0.0, 560.6246464810531)
+[23Dec2024 03:08:27.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ joined the game
+[23Dec2024 03:08:44.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Set own game mode to Creative Mode]
+[23Dec2024 03:08:45.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> chicos tranmitan en kick
+[23Dec2024 03:08:49.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:49.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:08:51.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> ahi si aguantan
+[23Dec2024 03:08:53.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[23Dec2024 03:08:54.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[23Dec2024 03:09:01.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Set own game mode to Survival Mode]
+[23Dec2024 03:09:04.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:09:07.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Teleported RG_LeonXD to IkappoAnyho_]
+[23Dec2024 03:09:25.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> oe
+[23Dec2024 03:09:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> atras
+[23Dec2024 03:09:50.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:09:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Ashes 'n Bones]
+[23Dec2024 03:10:08.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:10:12.813] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[23Dec2024 03:10:12.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Knowledge raises the soul]
+[23Dec2024 03:10:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD has made the advancement [Suit Up]
+[23Dec2024 03:10:15.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Knowledge of Death]
+[23Dec2024 03:10:15.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Ashes 'n Bones]
+[23Dec2024 03:10:19.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD has made the advancement [Acquire Hardware]
+[23Dec2024 03:10:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RG_LeonXD has made the advancement [Alex's Mobs]
+[23Dec2024 03:10:34.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:10:39.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:10:46.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:11:24.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:11:40.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:11:49.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:12:46.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:12:46.964] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:12:47.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:12:47.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:12:47.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:12:59.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:13:09.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:13:10.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:13:15.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:13:15.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:13:15.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
