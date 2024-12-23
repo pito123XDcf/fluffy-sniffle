@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-23 04:14:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-23 02:56:04 +0000"
@@ -937,10 +943,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-23 04:13:25 +0000",
       "log_spam_fixer": "2024-12-23 02:37:00 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
@@ -1866,7 +1871,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-23 02:50:02 +0000",
-      "golden_apple": "2024-12-23 04:10:20 +0000"
+      "golden_apple": "2024-12-23 04:10:20 +0000",
+      "cooked_chicken": "2024-12-23 04:16:45 +0000"
     },
     "done": false
   },

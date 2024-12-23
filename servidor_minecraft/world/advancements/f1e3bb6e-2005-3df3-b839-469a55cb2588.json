@@ -259,6 +259,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-23 04:18:30 +0000",
       "minecraft:skeleton": "2024-12-23 01:49:22 +0000",
       "minecraft:spider": "2024-12-23 01:48:27 +0000",
       "minecraft:piglin_brute": "2024-12-23 03:46:03 +0000",
@@ -1091,6 +1092,7 @@
       "apple": "2024-12-23 03:55:19 +0000",
       "bread": "2024-12-23 04:06:11 +0000",
       "golden_apple": "2024-12-23 03:41:35 +0000",
+      "rotten_flesh": "2024-12-23 04:14:45 +0000",
       "beetroot": "2024-12-23 03:50:47 +0000"
     },
     "done": false
@@ -1995,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-23 04:18:30 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-23 03:39:35 +0000"
@@ -2016,6 +2024,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-23 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-12-23 04:19:40 +0000"
     },
     "done": true
   },
@@ -2148,6 +2162,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-23 03:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-23 04:19:40 +0000"
     },
     "done": true
   },
@@ -2302,6 +2322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-23 04:19:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-23 03:34:15 +0000"
@@ -2359,6 +2385,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-23 03:23:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 04:18:30 +0000"
     },
     "done": true
   },
@@ -2422,9 +2454,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-23 04:19:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-23 03:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-23 04:19:16 +0000"
     },
     "done": true
   },
