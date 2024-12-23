@@ -73,9 +73,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-23 03:43:25 +0000",
       "log_spam_fixer": "2024-12-20 20:42:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -99,6 +100,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-20 23:27:22 +0000",
       "minecraft:frozen_river": "2024-12-20 23:28:08 +0000",
+      "minecraft:cherry_grove": "2024-12-23 03:38:03 +0000",
       "minecraft:birch_forest": "2024-12-20 23:26:18 +0000",
       "minecraft:beach": "2024-12-20 23:28:00 +0000",
       "minecraft:dark_forest": "2024-12-23 02:51:14 +0000",
@@ -1082,7 +1084,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-23 01:42:18 +0000"
+      "cooked_beef": "2024-12-23 01:42:18 +0000",
+      "porkchop": "2024-12-23 03:35:03 +0000",
+      "golden_apple": "2024-12-23 03:41:35 +0000"
     },
     "done": false
   },
@@ -1962,6 +1966,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-23 03:39:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 03:19:28 +0000"
@@ -1995,6 +2005,12 @@
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-23 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-23 03:34:51 +0000"
     },
     "done": true
   },
@@ -2088,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-23 03:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-23 03:25:15 +0000"
@@ -2160,6 +2182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-23 03:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2024-12-23 03:23:27 +0000"
@@ -2169,6 +2197,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-23 03:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-23 03:34:15 +0000"
     },
     "done": true
   },

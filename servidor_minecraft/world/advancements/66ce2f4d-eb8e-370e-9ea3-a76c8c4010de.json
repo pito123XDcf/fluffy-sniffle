@@ -55,7 +55,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -313,7 +313,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -623,7 +623,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -869,9 +869,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-23 03:33:40 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
@@ -1049,7 +1055,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -1073,7 +1079,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -1289,7 +1295,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -1433,7 +1439,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -1645,7 +1651,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -1735,7 +1741,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -1789,7 +1795,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -1903,7 +1909,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 03:33:25 +0000"
+      "log_spam_fixer": "2024-12-23 03:43:25 +0000"
     },
     "done": false
   },
@@ -2114,8 +2120,10 @@
       "minecraft:sparse_jungle": "2024-12-23 02:19:54 +0000",
       "minecraft:river": "2024-12-23 02:19:49 +0000",
       "minecraft:dripstone_caves": "2024-12-23 03:05:00 +0000",
+      "minecraft:swamp": "2024-12-23 03:34:54 +0000",
       "minecraft:forest": "2024-12-23 02:14:00 +0000",
       "minecraft:lush_caves": "2024-12-23 02:51:19 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-23 03:34:51 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 02:46:09 +0000",
       "minecraft:plains": "2024-12-23 02:19:51 +0000"
     },
@@ -2180,6 +2188,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-23 02:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 03:33:40 +0000"
     },
     "done": true
   },
