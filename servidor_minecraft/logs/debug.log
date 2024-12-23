@@ -5208,3 +5208,136 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 02:51:06.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> oe
 [23Dec2024 02:51:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Acquire Hardware]
 [23Dec2024 02:52:09.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Monster Hunter]
+[23Dec2024 02:53:19.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:53:19.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 02:53:19.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> chicos como que en facil? un mob casi me one shotea
+[23Dec2024 02:53:36.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Acquire Hardware]
+[23Dec2024 02:53:51.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Cover Me with Diamonds]
+[23Dec2024 02:54:39.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( suffocated in a wall
+[23Dec2024 02:54:39.879] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-954, y:8, z:615, dim:minecraft:overworld]
+[23Dec2024 02:54:39.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Your First Grave]
+[23Dec2024 02:54:39.883] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 02:54:41.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [The Most Useful Key]
+[23Dec2024 02:54:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[23Dec2024 02:54:44.333] [Server thread/DEBUG] [tombstone/]: A new grave of the player OiaNN was created at position [x:-951, y:8, z:617, dim:minecraft:overworld]
+[23Dec2024 02:54:44.351] [Server thread/INFO] [tombstone/]: The player OiaNN has successfully been saved
+[23Dec2024 02:54:48.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has reached the goal [A Fast Comeback]
+[23Dec2024 02:55:00.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[23Dec2024 02:55:00.888] [Server thread/DEBUG] [tombstone/]: A new grave of the player IkappoAnyho_ was created at position [x:-955, y:8, z:613, dim:minecraft:overworld]
+[23Dec2024 02:55:00.899] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[23Dec2024 02:55:07.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has reached the goal [A Fast Comeback]
+[23Dec2024 02:55:22.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( suffocated in a wall
+[23Dec2024 02:55:22.677] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jordirepitente=( was created at position [x:-948, y:8, z:613, dim:minecraft:overworld]
+[23Dec2024 02:55:22.680] [Server thread/INFO] [tombstone/]: The player Jordirepitente=( has successfully been saved
+[23Dec2024 02:55:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has reached the goal [Here They Come]
+[23Dec2024 02:55:42.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:55:42.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:55:43.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:56:30.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:56:30.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:56:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [A Strange Grave Dust]
+[23Dec2024 02:56:53.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:13.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:19.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:19.462] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:30.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Not Today, Thank You]
+[23Dec2024 02:57:40.759] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:43.663] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:48.058] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:51.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:57:56.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Magic Writing]
+[23Dec2024 02:58:19.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:58:19.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 02:58:28.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jordirepitente=( has made the advancement [Diamonds!]
+[23Dec2024 02:58:52.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:58:54.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:58:57.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:59:27.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 02:59:57.509] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:00:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [A Strange Grave Dust]
+[23Dec2024 03:00:22.293] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 28 messages to dispatch.
+[23Dec2024 03:00:22.326] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[23Dec2024 03:00:22.373] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[23Dec2024 03:00:22.425] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[23Dec2024 03:00:22.472] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[23Dec2024 03:00:22.527] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@790697d3[id=<null>,name=RG_LeonXD,properties={},legacy=false] (/100.115.140.81:54304) lost connection: Disconnected
+[23Dec2024 03:00:28.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OiaNN lost connection: Disconnected
+[23Dec2024 03:00:28.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN left the game
+[23Dec2024 03:00:40.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:00:40.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:00:46.230] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 28 messages to dispatch.
+[23Dec2024 03:00:46.274] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[23Dec2024 03:00:46.324] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[23Dec2024 03:00:46.371] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[23Dec2024 03:00:46.428] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[23Dec2024 03:00:46.471] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[23Dec2024 03:00:46.523] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@657f4aa0[id=<null>,name=RG_LeonXD,properties={},legacy=false] (/100.115.140.81:54306) lost connection: Disconnected
+[23Dec2024 03:01:05.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:01:05.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:01:05.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:01:05.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:01:35.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[23Dec2024 03:01:58.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Let's Get To Work]
+[23Dec2024 03:02:36.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Cover Me with Diamonds]
+[23Dec2024 03:02:36.969] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 28 messages to dispatch.
+[23Dec2024 03:02:36.973] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[23Dec2024 03:02:37.022] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[23Dec2024 03:02:37.072] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[23Dec2024 03:02:37.121] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[23Dec2024 03:02:37.171] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[23Dec2024 03:02:37.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[23Dec2024 03:02:37.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[23Dec2024 03:02:37.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, voicechat, tombstone, kotlinforforge, forge]
+[23Dec2024 03:02:37.180] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bagus_lib:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'illagerwarship:illagerwarship' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminous_beasts:luminous_beasts' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hs_bosses:hs_bosses' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'theinkarena:theinkarena' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'under_the_moon:under_the_moon' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.181] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'friendsandfoes:networking' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'opf:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantwithmob:net' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminoustag:luminoustag' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminous_nether:luminous_nether' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ati_structures:ati_structures' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 03:02:37.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.8.6' from client : ACCEPTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mofus_better_end_:mofus_better_end_' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'faded_conquest_2:faded_conquest_2' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tmg:tmg' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.183] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 03:02:37.184] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,bagus_lib:channel,illagerwarship:illagerwarship,legendary_monsters:main_channel,luminous_beasts:luminous_beasts,endermanoverhaul:main,hs_bosses:hs_bosses,sophisticatedbackpacks:channel,citadel:main_channel,theinkarena:theinkarena,under_the_moon:under_the_moon,born_in_chaos_v1:born_in_chaos_v1,friendsandfoes:networking,opf:main,curios:main,enchantwithmob:net,luminoustag:luminoustag,cataclysm:main_channel,ati_structures:ati_structures,lionfishapi:main_channel,alexsmobs:main_channel,mowziesmobs:net,mofus_better_end_:mofus_better_end_,creativecore:main,sophisticatedcore:channel,faded_conquest_2:faded_conquest_2,hexerei:channel,tmg:tmg,hexerei:network,geckolib:main,waystones:network] rejected their client side version number
+[23Dec2024 03:02:37.185] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Dec2024 03:02:37.185] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[23Dec2024 03:02:37.231] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61a4d1c6[id=<null>,name=RG_LeonXD,properties={},legacy=false] (/100.115.140.81:54405) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 03:02:43.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Magic Writing]
+[23Dec2024 03:02:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Suit Up]
+[23Dec2024 03:03:19.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 03:03:19.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
