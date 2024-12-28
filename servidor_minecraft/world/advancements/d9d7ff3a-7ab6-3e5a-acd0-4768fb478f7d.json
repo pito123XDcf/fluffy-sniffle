@@ -112,6 +112,7 @@
       "minecraft:beach": "2024-12-28 21:13:11 +0000",
       "minecraft:river": "2024-12-28 21:12:45 +0000",
       "minecraft:forest": "2024-12-28 21:09:50 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-28 21:38:40 +0000",
       "minecraft:plains": "2024-12-28 21:05:39 +0000"
     },
     "done": false
@@ -185,6 +186,12 @@
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-28 21:37:08 +0000"
     },
     "done": true
   },
@@ -268,7 +275,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-28 21:20:26 +0000"
+      "minecraft:skeleton": "2024-12-28 21:20:26 +0000",
+      "minecraft:creeper": "2024-12-28 21:30:07 +0000",
+      "minecraft:zombie": "2024-12-28 21:30:47 +0000"
     },
     "done": false
   },
@@ -317,6 +326,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-28 21:23:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-28 21:32:14 +0000"
     },
     "done": true
   },
@@ -518,6 +533,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-28 21:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-28 21:10:17 +0000"
@@ -539,6 +560,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-28 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-28 21:30:09 +0000"
     },
     "done": true
   },
@@ -794,6 +821,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-28 21:29:24 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-12-28 21:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-28 21:10:17 +0000"
@@ -851,6 +890,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-28 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 21:37:26 +0000"
     },
     "done": true
   },
@@ -932,6 +977,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-12-28 21:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:10:48 +0000"
@@ -940,9 +991,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-28 21:36:08 +0000",
       "cooked_mutton": "2024-12-28 21:16:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-28 21:30:09 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
