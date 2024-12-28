@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-28 20:58:26 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 20:58:26 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2024-12-28 21:15:14 +0000"
     },
     "done": true
   },
@@ -101,6 +113,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-28 20:58:26 +0000"
@@ -110,6 +128,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-28 20:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
     },
     "done": true
   },
@@ -134,6 +158,12 @@
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:03:47 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2024-12-28 21:14:56 +0000"
     },
     "done": true
   },
@@ -173,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:03:47 +0000"
@@ -189,6 +225,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-28 20:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-28 21:16:58 +0000"
     },
     "done": true
   },
@@ -222,9 +264,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-28 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:17:48 +0000"
     },
     "done": true
   },
@@ -237,6 +291,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-28 20:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:17:48 +0000"
     },
     "done": true
   },
@@ -255,6 +315,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-28 20:59:09 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-28 21:16:58 +0000"
     },
     "done": true
   },
@@ -297,6 +363,12 @@
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 21:15:05 +0000"
     },
     "done": true
   },
@@ -402,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-28 21:04:32 +0000"
@@ -411,6 +489,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-28 21:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
     },
     "done": true
   },
@@ -456,9 +540,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-28 21:18:18 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2024-12-28 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
     },
     "done": true
   },
@@ -501,6 +597,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-28 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 21:15:05 +0000"
     },
     "done": true
   },
@@ -558,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-28 21:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-28 20:59:06 +0000"
@@ -582,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:03:47 +0000"
@@ -600,6 +714,12 @@
     },
     "done": true
   },
+  "under_the_moon:in_the_pines": {
+    "criteria": {
+      "in_the_pines_0": "2024-12-28 21:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:02:26 +0000"
@@ -609,6 +729,12 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
     },
     "done": true
   },
@@ -666,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:03:47 +0000"
@@ -675,6 +807,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-28 20:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
     },
     "done": true
   },
@@ -714,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-28 21:15:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-28 21:00:04 +0000"
@@ -744,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-28 21:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 20:58:26 +0000"
@@ -756,6 +906,12 @@
     },
     "done": true
   },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2024-12-28 21:14:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-28 21:02:26 +0000"
@@ -765,6 +921,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-28 21:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 21:15:05 +0000"
     },
     "done": true
   },
@@ -780,9 +942,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-28 20:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
     },
     "done": true
   },
@@ -819,6 +1005,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
     },
     "done": true
   },
@@ -873,6 +1065,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-28 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 21:16:22 +0000"
     },
     "done": true
   },
@@ -968,6 +1166,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-28 21:12:54 +0000",
+      "minecraft:river": "2024-12-28 21:12:59 +0000",
       "minecraft:forest": "2024-12-28 20:58:10 +0000",
       "minecraft:plains": "2024-12-28 20:56:13 +0000"
     },
@@ -993,7 +1193,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-28 21:04:16 +0000"
+      "cooked_porkchop": "2024-12-28 21:15:48 +0000",
+      "cooked_beef": "2024-12-28 21:04:16 +0000",
+      "apple": "2024-12-28 21:12:27 +0000"
     },
     "done": false
   },
@@ -1024,6 +1226,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-28 20:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 21:13:25 +0000"
     },
     "done": true
   },
