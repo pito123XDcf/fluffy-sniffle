@@ -298,6 +298,7 @@
       "minecraft:skeleton": "2024-12-28 21:49:16 +0000",
       "minecraft:piglin_brute": "2024-12-28 22:05:34 +0000",
       "minecraft:spider": "2024-12-28 21:04:00 +0000",
+      "minecraft:creeper": "2024-12-28 22:21:20 +0000",
       "minecraft:cave_spider": "2024-12-28 21:31:50 +0000",
       "minecraft:silverfish": "2024-12-28 21:49:10 +0000",
       "minecraft:stray": "2024-12-28 21:34:18 +0000",
@@ -401,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-28 22:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-28 20:58:26 +0000"
@@ -464,6 +471,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-28 20:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 22:22:44 +0000"
     },
     "done": true
   },
@@ -731,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-28 22:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 20:58:26 +0000"
@@ -836,6 +855,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 20:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-28 22:21:21 +0000"
     },
     "done": true
   },
@@ -1373,6 +1398,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 22:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:02:26 +0000"
@@ -1566,6 +1597,7 @@
       "minecraft:dark_forest": "2024-12-28 21:59:43 +0000",
       "minecraft:river": "2024-12-28 21:12:59 +0000",
       "minecraft:forest": "2024-12-28 20:58:10 +0000",
+      "minecraft:ocean": "2024-12-28 22:18:46 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 21:28:30 +0000",
       "minecraft:plains": "2024-12-28 20:56:13 +0000"
     },
@@ -1612,6 +1644,12 @@
       "cooked_salmon": "2024-12-28 21:41:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-28 22:21:21 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/discreet_search": {
     "criteria": {
