@@ -116,6 +116,7 @@
       "minecraft:forest": "2024-12-28 21:11:54 +0000",
       "minecraft:ocean": "2024-12-28 22:18:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 21:27:04 +0000",
+      "minecraft:meadow": "2024-12-28 22:44:47 +0000",
       "minecraft:plains": "2024-12-28 21:11:17 +0000"
     },
     "done": false
@@ -1662,9 +1663,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-28 22:47:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-28 22:43:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 22:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 22:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 22:52:06 +0000"
     },
     "done": true
   },
@@ -1674,9 +1699,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 22:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-12-28 22:46:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-28 22:47:09 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-28 22:41:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-12-28 22:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-28 22:47:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-28 22:50:32 +0000"
     },
     "done": true
   },

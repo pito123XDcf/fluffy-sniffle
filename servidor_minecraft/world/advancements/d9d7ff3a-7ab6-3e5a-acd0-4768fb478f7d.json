@@ -809,6 +809,7 @@
       "cooked_porkchop": "2024-12-28 21:36:08 +0000",
       "cooked_mutton": "2024-12-28 21:16:08 +0000",
       "cooked_beef": "2024-12-28 21:57:02 +0000",
+      "golden_apple": "2024-12-28 22:52:37 +0000",
       "cooked_rabbit": "2024-12-28 22:29:32 +0000"
     },
     "done": false
@@ -848,6 +849,7 @@
       "minecraft:skeleton": "2024-12-28 21:20:26 +0000",
       "minecraft:spider": "2024-12-28 21:41:02 +0000",
       "minecraft:creeper": "2024-12-28 21:30:07 +0000",
+      "minecraft:cave_spider": "2024-12-28 22:45:10 +0000",
       "minecraft:stray": "2024-12-28 22:41:58 +0000",
       "minecraft:zombie": "2024-12-28 21:30:47 +0000"
     },
@@ -2025,9 +2027,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 22:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-28 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/stripped_mangrove_log_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-28 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-28 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-28 22:52:13 +0000"
     },
     "done": true
   },
@@ -2043,9 +2087,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-28 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-28 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-28 22:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-28 22:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 22:49:53 +0000"
     },
     "done": true
   },

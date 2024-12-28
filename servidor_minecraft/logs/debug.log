@@ -13148,3 +13148,158 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [28Dec2024 22:44:39.090] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
 [28Dec2024 22:44:39.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [28Dec2024 22:44:39.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:45:19.400] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_3 is being run through DFU (hash 1fb1f3a011acba9a26f6e07662f34071686d7f8e873f64780ad8787d4b83da0a), this will cause launch time delays
+[28Dec2024 22:45:19.534] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[28Dec2024 22:45:19.552] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[28Dec2024 22:45:23.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:45:23.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:45:29.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:45:29.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:45:31.732] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[28Dec2024 22:45:39.288] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut6
+[28Dec2024 22:45:45.236] [Worker-Main-11/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_8 is being run through DFU (hash 6632ecebccf60d8d638fbd13152c83bb53bacb154d33e8ef665cd17db122f497), this will cause launch time delays
+[28Dec2024 22:45:45.538] [Worker-Main-12/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_3 is being run through DFU (hash daab2f2272e9667fcfa3a6e8dcb750002303e7a4b325778c2b546ef222e1d979), this will cause launch time delays
+[28Dec2024 22:45:45.665] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:45:55.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [People Are Strange]
+[28Dec2024 22:45:58.661] [Worker-Main-12/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_9 is being run through DFU (hash 7d1d8d3e7497c1017234745b03a7d5b9fc0624076feaff7a36c3b160e0e9e650), this will cause launch time delays
+[28Dec2024 22:45:59.064] [Worker-Main-11/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_2 is being run through DFU (hash 3719ec6fd67641e3f2ca31e0741ab7626e3129caeee740e91c32eb6c150625ca), this will cause launch time delays
+[28Dec2024 22:46:02.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esotilin has made the advancement [People Are Strange]
+[28Dec2024 22:46:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [People Are Strange]
+[28Dec2024 22:46:06.830] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_evoker_0 is being run through DFU (hash 57739cc8b285e7f62ad804c42b8162264fff580438b26fe6b746127afe9cf810), this will cause launch time delays
+[28Dec2024 22:46:06.835] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_pillager_0 is being run through DFU (hash 6eff5031ef7d716f5121d2e4f9fe2593e55a9d2fc76423d5d7c12b5e309de323), this will cause launch time delays
+[28Dec2024 22:46:06.838] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0 is being run through DFU (hash 227df976f5e96c1c7abcde4371685dd199f32cf418d794d2a4c66bf137aa418f), this will cause launch time delays
+[28Dec2024 22:46:31.635] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_05
+[28Dec2024 22:46:31.645] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_03
+[28Dec2024 22:46:31.646] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_02
+[28Dec2024 22:46:31.646] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_01
+[28Dec2024 22:46:31.647] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_04
+[28Dec2024 22:46:31.661] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_07
+[28Dec2024 22:46:31.663] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/turn_04
+[28Dec2024 22:46:31.665] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_01
+[28Dec2024 22:46:31.666] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_03
+[28Dec2024 22:46:31.668] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_06
+[28Dec2024 22:46:31.669] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_05
+[28Dec2024 22:46:31.671] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_04
+[28Dec2024 22:46:31.671] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_03
+[28Dec2024 22:46:31.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:46:31.673] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_02
+[28Dec2024 22:46:31.676] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_08
+[28Dec2024 22:46:31.678] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_01
+[28Dec2024 22:46:31.681] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_06
+[28Dec2024 22:46:31.683] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_02
+[28Dec2024 22:46:31.685] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_04
+[28Dec2024 22:46:31.687] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/turn_02
+[28Dec2024 22:46:31.689] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/turn_01
+[28Dec2024 22:46:31.691] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_03
+[28Dec2024 22:46:31.692] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_01
+[28Dec2024 22:46:31.694] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_02
+[28Dec2024 22:46:31.738] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/houses/empty
+[28Dec2024 22:46:44.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:46:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has reached the goal [Fortuitous Militia]
+[28Dec2024 22:46:44.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:46:44.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:46:58.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:05.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:05.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:07.399] [Server thread/WARN] [tombstone/]: The death event of the player IkappoAnyho_ was canceled by another mod
+[28Dec2024 22:47:07.402] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[28Dec2024 22:47:08.126] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:08.126] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:09.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Where Is The Stone Pen?]
+[28Dec2024 22:47:13.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ was shot by Pillager
+[28Dec2024 22:47:13.501] [Server thread/DEBUG] [tombstone/]: A new grave of the player IkappoAnyho_ was created at position [x:125, y:101, z:-881, dim:minecraft:overworld]
+[28Dec2024 22:47:14.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:15.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:15.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:16.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:18.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:47:40.200] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_0 is being run through DFU (hash e1a904a1cd9c7c6658b1c67d6cbd765acb7a5e081d03082d12803e73d2ca991a), this will cause launch time delays
+[28Dec2024 22:47:56.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:27.849] [Server thread/WARN] [tombstone/]: The death event of the player IkappoAnyho_ was canceled by another mod
+[28Dec2024 22:48:27.853] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[28Dec2024 22:48:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has reached the goal [Bone Crusher]
+[28Dec2024 22:48:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ was shot by Pillager
+[28Dec2024 22:48:33.747] [Server thread/DEBUG] [tombstone/]: A new grave of the player IkappoAnyho_ was created at position [x:117, y:98, z:-861, dim:minecraft:overworld]
+[28Dec2024 22:48:35.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:35.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:35.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:35.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:36.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:36.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:36.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:48:37.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:13.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:13.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:13.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:16.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:19.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:49:19.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:49:23.391] [Server thread/WARN] [tombstone/]: The death event of the player IkappoAnyho_ was canceled by another mod
+[28Dec2024 22:49:23.395] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[28Dec2024 22:49:31.991] [Server thread/WARN] [tombstone/]: The death event of the player OiaNN was canceled by another mod
+[28Dec2024 22:49:31.996] [Server thread/INFO] [tombstone/]: The player OiaNN has successfully been saved
+[28Dec2024 22:49:32.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has reached the goal [Chain Death]
+[28Dec2024 22:49:32.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ was slain by Man From The Fog
+[28Dec2024 22:49:32.797] [Server thread/DEBUG] [tombstone/]: A new grave of the player IkappoAnyho_ was created at position [x:155, y:102, z:-841, dim:minecraft:overworld]
+[28Dec2024 22:49:34.052] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:34.052] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:34.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:49:34.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:50:14.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:50:15.161] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[28Dec2024 22:50:29.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:50:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has made the advancement [Magic Writing]
+[28Dec2024 22:50:53.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:50:53.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:50:54.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:50:54.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:50:54.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:51:03.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:51:13.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esotilin has made the advancement [Where Is The Stone Pen?]
+[28Dec2024 22:51:23.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:51:29.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esotilin has made the advancement [Not Today, Thank You]
+[28Dec2024 22:51:31.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:51:46.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:51:46.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:51:48.027] [Worker-Main-11/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_1 is being run through DFU (hash 8ac6538d173a17d0a80b37133fcb17e389d63163ccffbcbee5887b87c31f2e62), this will cause launch time delays
+[28Dec2024 22:51:48.334] [Worker-Main-11/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_5 is being run through DFU (hash b7a316c6c2d948e115fcd28abe20d991a9f97cb9153390402b2d35746afbb3da), this will cause launch time delays
+[28Dec2024 22:52:28.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:52:28.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:52:28.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:53:36.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:53:54.721] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_10 is being run through DFU (hash 84ec623b973238115e393ae0890b6f142519debd488c41f5718ffec4f914ddeb), this will cause launch time delays
+[28Dec2024 22:53:56.186] [Worker-Main-12/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_4 is being run through DFU (hash 6fefb53d385f8b325ca8762da5268d7313db81a1abb608a4288410dd11f6af23), this will cause launch time delays
+[28Dec2024 22:53:57.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:04.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:04.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:04.565] [Worker-Main-11/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_6 is being run through DFU (hash 50f12c7b4093b127df7bb00a26b2a8ba4a8b9cdc63d610ebb07518f8f6f31f8c), this will cause launch time delays
+[28Dec2024 22:54:06.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:06.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:06.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:06.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:13.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:13.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:15.010] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_7 is being run through DFU (hash 90275fd55e2becb0f897c72ff40bb853e55b275449e20a9ce0a841d9a4bdaa31), this will cause launch time delays
+[28Dec2024 22:54:19.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:54:19.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:54:24.102] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (468 | 60 | -1020).
+[28Dec2024 22:54:24.102] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[28Dec2024 22:54:24.103] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[28Dec2024 22:54:24.103] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[28Dec2024 22:54:24.103] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[28Dec2024 22:54:24.103] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[28Dec2024 22:54:24.104] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(1) Nodes and 6(0) Rooms
+[28Dec2024 22:54:24.104] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[28Dec2024 22:54:24.104] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(5) Nodes and 6(0) Rooms
+[28Dec2024 22:54:24.104] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[28Dec2024 22:54:24.105] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 4(0) Rooms
+[28Dec2024 22:54:24.901] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:toxic_ruins_11 is being run through DFU (hash 07774ed7c65a43e4f0dc06ace45dffa8a7d3d2cefa527668762dcaa408d52698), this will cause launch time delays
+[28Dec2024 22:54:27.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:27.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:27.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:27.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:30.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:30.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:54:35.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Sends Quills down my Spine!]
+[28Dec2024 22:55:03.346] [Server thread/WARN] [tombstone/]: The death event of the player esotilin was canceled by another mod
+[28Dec2024 22:55:03.347] [Server thread/INFO] [tombstone/]: The player esotilin has successfully been saved
