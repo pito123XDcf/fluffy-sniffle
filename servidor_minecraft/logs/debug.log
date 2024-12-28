@@ -12045,3 +12045,134 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [28Dec2024 21:53:15.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [28Dec2024 21:53:46.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [28Dec2024 21:53:59.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esotilin has reached the goal [Discreet Search]
+[28Dec2024 21:54:03.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OiaNN> XD
+[28Dec2024 21:54:03.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 21:54:03.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 21:54:10.429] [Server thread/WARN] [tombstone/]: The death event of the player esotilin was canceled by another mod
+[28Dec2024 21:54:10.438] [Server thread/INFO] [tombstone/]: The player esotilin has successfully been saved
+[28Dec2024 21:54:11.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:13.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:13.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esotilin was slain by Zombie
+[28Dec2024 21:54:16.438] [Server thread/DEBUG] [tombstone/]: A new grave of the player esotilin was created at position [x:1027, y:69, z:251, dim:minecraft:overworld]
+[28Dec2024 21:54:37.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:38.078] [Server thread/WARN] [tombstone/]: The death event of the player esotilin was canceled by another mod
+[28Dec2024 21:54:38.088] [Server thread/INFO] [tombstone/]: The player esotilin has successfully been saved
+[28Dec2024 21:54:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Teleported esotilin to IkappoAnyho_]
+[28Dec2024 21:54:44.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esotilin has reached the goal [Chain Death]
+[28Dec2024 21:54:44.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esotilin was slain by Zombie
+[28Dec2024 21:54:44.137] [Server thread/DEBUG] [tombstone/]: A new grave of the player esotilin was created at position [x:1027, y:68, z:251, dim:minecraft:overworld]
+[28Dec2024 21:54:46.071] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity under_the_moon:quillback but it was marked as removed already
+[28Dec2024 21:54:47.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:57.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:57.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:57.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:54:57.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> perdi mis cosas reinicien sv
+[28Dec2024 21:55:06.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:16.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:16.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:16.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:16.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:22.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:39.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:39.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:39.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:39.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:39.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:55:39.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has completed the challenge [Death-Defying]
+[28Dec2024 21:56:06.172] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:06.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:06.373] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:12.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:12.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:28.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:28.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has reached the goal [Discreet Search]
+[28Dec2024 21:56:35.691] [Server thread/WARN] [tombstone/]: The death event of the player IkappoAnyho_ was canceled by another mod
+[28Dec2024 21:56:35.696] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[28Dec2024 21:56:40.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ was slain by OiaNN
+[28Dec2024 21:56:41.842] [Server thread/DEBUG] [tombstone/]: A new grave of the player IkappoAnyho_ was created at position [x:1028, y:67, z:251, dim:minecraft:overworld]
+[28Dec2024 21:56:43.685] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:56:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> c w
+[28Dec2024 21:57:41.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:57:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Life turned out to be a comedy]
+[28Dec2024 21:57:49.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OiaNN> COMEDIANTE
+[28Dec2024 21:58:02.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> presente
+[28Dec2024 21:58:07.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:58:09.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:58:09.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:58:20.668] [Server thread/WARN] [tombstone/]: The death event of the player OiaNN was canceled by another mod
+[28Dec2024 21:58:20.689] [Server thread/INFO] [tombstone/]: The player OiaNN has successfully been saved
+[28Dec2024 21:58:27.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN hit the ground too hard
+[28Dec2024 21:58:27.090] [Server thread/DEBUG] [tombstone/]: A new grave of the player OiaNN was created at position [x:1015, y:74, z:238, dim:minecraft:overworld]
+[28Dec2024 21:58:28.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:58:32.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:58:34.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> zetas
+[28Dec2024 21:58:50.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:59:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> boss
+[28Dec2024 21:59:03.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:59:03.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 21:59:03.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 21:59:08.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:59:08.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:59:10.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> 1012
+[28Dec2024 21:59:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> 130
+[28Dec2024 21:59:20.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:59:20.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> boss inzano
+[28Dec2024 21:59:24.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> inbocabele
+[28Dec2024 21:59:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> temazo
+[28Dec2024 21:59:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> 1012
+[28Dec2024 21:59:38.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> 130
+[28Dec2024 21:59:51.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 21:59:59.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [The Wind Darkening]
+[28Dec2024 22:00:23.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:00:23.671] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:00:40.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:00:44.289] [Server thread/WARN] [tombstone/]: The death event of the player IkappoAnyho_ was canceled by another mod
+[28Dec2024 22:00:44.296] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[28Dec2024 22:00:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ was slain by Puny Juggernaught
+[28Dec2024 22:00:50.147] [Server thread/DEBUG] [tombstone/]: A new grave of the player IkappoAnyho_ was created at position [x:1016, y:64, z:119, dim:minecraft:overworld]
+[28Dec2024 22:00:51.071] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:00:51.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:01:18.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OiaNN has completed the challenge [Knights of The Square-Table]
+[28Dec2024 22:01:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> ni
+[28Dec2024 22:01:26.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> es mi subdito
+[28Dec2024 22:01:31.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:01:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> son subdito
+[28Dec2024 22:01:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> ponlo en el suelo
+[28Dec2024 22:01:42.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:01:43.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> oee
+[28Dec2024 22:01:45.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> noi mates
+[28Dec2024 22:01:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> es mi subdito
+[28Dec2024 22:01:57.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Vanishing]
+[28Dec2024 22:02:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esotilin> dale click derecho en el suelo con las cabezitas
+[28Dec2024 22:02:20.536] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:02:25.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:02:25.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:02:40.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:02:40.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:04.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:04.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:06.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:06.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:10.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:17.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:17.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:29.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:36.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:36.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:36.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:40.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:48.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:48.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:03:57.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:04:03.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:04:03.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:04:05.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:04:05.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:04:05.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:04:05.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:04:05.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[28Dec2024 22:04:05.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already

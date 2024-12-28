@@ -392,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-28 21:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:10:17 +0000"
@@ -590,6 +596,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-28 21:59:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:10:48 +0000"
@@ -674,6 +686,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-28 21:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:10:48 +0000"
@@ -707,6 +725,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-28 21:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-28 22:03:43 +0000"
     },
     "done": true
   },
@@ -872,6 +896,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 22:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:10:17 +0000"
@@ -998,10 +1028,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-28 22:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-28 21:36:08 +0000",
-      "cooked_mutton": "2024-12-28 21:16:08 +0000"
+      "cooked_mutton": "2024-12-28 21:16:08 +0000",
+      "cooked_beef": "2024-12-28 21:57:02 +0000"
     },
     "done": false
   },

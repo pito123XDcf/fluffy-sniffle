@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-28 21:03:34 +0000"
@@ -247,8 +253,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-28 21:49:16 +0000",
       "minecraft:spider": "2024-12-28 21:04:00 +0000",
       "minecraft:cave_spider": "2024-12-28 21:31:50 +0000",
+      "minecraft:silverfish": "2024-12-28 21:49:10 +0000",
       "minecraft:stray": "2024-12-28 21:34:18 +0000",
       "minecraft:zombie": "2024-12-28 21:06:37 +0000"
     },
@@ -257,6 +265,18 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-28 20:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },
@@ -338,6 +358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-28 21:17:48 +0000"
@@ -359,6 +385,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-28 20:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-28 21:53:19 +0000"
     },
     "done": true
   },
@@ -434,6 +466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 21:35:22 +0000"
@@ -449,6 +487,12 @@
   "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },
@@ -578,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2024-12-28 21:03:24 +0000"
@@ -593,6 +643,18 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-28 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-28 21:53:19 +0000"
     },
     "done": true
   },
@@ -857,6 +919,12 @@
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2024-12-28 21:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },
@@ -1136,9 +1204,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-28 21:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },
@@ -1220,6 +1300,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-28 22:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-28 21:04:32 +0000"
@@ -1229,6 +1315,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },
@@ -1247,6 +1339,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-28 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-28 21:53:19 +0000"
     },
     "done": true
   },
@@ -1271,6 +1369,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-28 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },
@@ -1316,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-28 20:56:13 +0000"
@@ -1331,6 +1441,12 @@
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },
@@ -1360,13 +1476,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-28 21:58:42 +0000",
       "minecraft:beach": "2024-12-28 21:12:54 +0000",
+      "minecraft:dark_forest": "2024-12-28 21:59:43 +0000",
       "minecraft:river": "2024-12-28 21:12:59 +0000",
       "minecraft:forest": "2024-12-28 20:58:10 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 21:28:30 +0000",
       "minecraft:plains": "2024-12-28 20:56:13 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-28 21:53:19 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -1396,6 +1520,12 @@
       "cooked_salmon": "2024-12-28 21:41:55 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 21:56:28 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
@@ -1448,6 +1578,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 21:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-28 21:53:36 +0000"
     },
     "done": true
   },

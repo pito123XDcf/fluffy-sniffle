@@ -1261,6 +1261,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 21:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:34:56 +0000"
@@ -1429,6 +1435,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-28 22:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-28 21:17:52 +0000"
@@ -1587,7 +1599,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-28 21:58:41 +0000",
       "minecraft:beach": "2024-12-28 21:08:52 +0000",
+      "minecraft:dark_forest": "2024-12-28 22:02:14 +0000",
       "minecraft:river": "2024-12-28 21:04:27 +0000",
       "minecraft:forest": "2024-12-28 21:10:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 21:26:55 +0000",
@@ -1632,6 +1646,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-28 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 21:53:59 +0000"
     },
     "done": true
   },
