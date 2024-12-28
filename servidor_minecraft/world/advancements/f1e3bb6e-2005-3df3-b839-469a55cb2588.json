@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-28 21:21:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 20:59:06 +0000"
@@ -1169,6 +1175,7 @@
       "minecraft:beach": "2024-12-28 21:12:54 +0000",
       "minecraft:river": "2024-12-28 21:12:59 +0000",
       "minecraft:forest": "2024-12-28 20:58:10 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-28 21:28:30 +0000",
       "minecraft:plains": "2024-12-28 20:56:13 +0000"
     },
     "done": false
@@ -1195,7 +1202,8 @@
     "criteria": {
       "cooked_porkchop": "2024-12-28 21:15:48 +0000",
       "cooked_beef": "2024-12-28 21:04:16 +0000",
-      "apple": "2024-12-28 21:12:27 +0000"
+      "apple": "2024-12-28 21:12:27 +0000",
+      "bread": "2024-12-28 21:20:18 +0000"
     },
     "done": false
   },
