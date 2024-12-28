@@ -284,6 +284,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-28 21:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-28 21:04:01 +0000"
@@ -1386,7 +1392,8 @@
       "cooked_beef": "2024-12-28 21:04:16 +0000",
       "beef": "2024-12-28 21:34:12 +0000",
       "apple": "2024-12-28 21:12:27 +0000",
-      "bread": "2024-12-28 21:20:18 +0000"
+      "bread": "2024-12-28 21:20:18 +0000",
+      "cooked_salmon": "2024-12-28 21:41:55 +0000"
     },
     "done": false
   },
