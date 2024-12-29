@@ -131,6 +131,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:49:58 +0000"
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 22:20:57 +0000"
@@ -164,6 +182,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-12-29 22:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -263,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
@@ -278,6 +308,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-29 22:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-29 23:07:56 +0000"
     },
     "done": true
   },
@@ -340,6 +376,7 @@
       "minecraft:skeleton": "2024-12-29 22:23:53 +0000",
       "minecraft:piglin_brute": "2024-12-29 22:47:19 +0000",
       "minecraft:spider": "2024-12-29 22:47:54 +0000",
+      "minecraft:husk": "2024-12-29 23:06:59 +0000",
       "minecraft:silverfish": "2024-12-29 22:29:05 +0000",
       "minecraft:stray": "2024-12-29 22:30:32 +0000",
       "minecraft:zombie": "2024-12-29 22:28:53 +0000"
@@ -361,6 +398,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:05 +0000"
     },
     "done": true
   },
@@ -442,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-29 22:30:05 +0000"
@@ -469,6 +518,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-29 22:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -592,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-29 22:22:33 +0000"
@@ -637,6 +698,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-29 22:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -706,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-29 22:30:05 +0000"
@@ -754,9 +827,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-29 23:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-29 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -805,6 +896,12 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-29 22:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 23:11:55 +0000"
     },
     "done": true
   },
@@ -871,6 +968,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-29 22:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -964,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-12-29 22:35:40 +0000"
@@ -1009,6 +1118,12 @@
   "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -1216,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-29 22:49:58 +0000"
@@ -1225,6 +1346,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-29 22:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -1255,6 +1382,18 @@
   "minecraft:recipes/woodcutting/birch/chest_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/stripped_witch_hazel_log_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:05 +0000"
     },
     "done": true
   },
@@ -1303,6 +1442,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-29 22:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:05 +0000"
     },
     "done": true
   },
@@ -1360,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-29 22:16:51 +0000"
@@ -1390,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 22:21:39 +0000"
@@ -1414,9 +1571,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-29 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -1450,6 +1619,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-29 22:16:37 +0000"
@@ -1468,15 +1655,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-29 22:16:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -1507,6 +1712,18 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-29 22:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
     },
     "done": true
   },
@@ -1576,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2024-12-29 22:21:55 +0000"
@@ -1594,9 +1817,16 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-29 23:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-29 22:44:01 +0000",
+      "minecraft:taiga": "2024-12-29 23:06:31 +0000",
       "minecraft:deep_ocean": "2024-12-29 22:53:27 +0000",
       "minecraft:sunflower_plains": "2024-12-29 22:40:14 +0000",
       "minecraft:birch_forest": "2024-12-29 22:16:30 +0000",
@@ -1636,10 +1866,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-29 23:01:01 +0000",
       "chicken": "2024-12-29 22:20:30 +0000",
       "cooked_mutton": "2024-12-29 22:36:59 +0000",
+      "apple": "2024-12-29 23:06:10 +0000",
       "cooked_cod": "2024-12-29 22:26:32 +0000",
       "mutton": "2024-12-29 22:22:29 +0000",
       "bread": "2024-12-29 22:49:08 +0000",
