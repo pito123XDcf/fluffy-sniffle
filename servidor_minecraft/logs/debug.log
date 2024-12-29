@@ -6676,3 +6676,242 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 23:33:10.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [29Dec2024 23:33:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Ambush]
 [29Dec2024 23:33:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [World of illusion]
+[29Dec2024 23:33:40.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:33:51.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:02.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_engineer
+[29Dec2024 23:34:02.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[29Dec2024 23:34:02.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[29Dec2024 23:34:02.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_florist
+[29Dec2024 23:34:02.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_woodworker
+[29Dec2024 23:34:02.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_oceanographer
+[29Dec2024 23:34:02.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_hunter
+[29Dec2024 23:34:03.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:03.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:11.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:15.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:19.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:26.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:31.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:43.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[29Dec2024 23:34:46.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:47.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:34:56.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:01.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:01.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:01.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:08.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1
+[29Dec2024 23:35:08.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0
+[29Dec2024 23:35:08.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0
+[29Dec2024 23:35:08.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[29Dec2024 23:35:08.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0
+[29Dec2024 23:35:08.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0
+[29Dec2024 23:35:21.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:24.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:29.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:31.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:31.952] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=681, y=3, z=-183}
+[29Dec2024 23:35:31.953] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=3, z=-181}
+[29Dec2024 23:35:31.954] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=685, y=5, z=-181}
+[29Dec2024 23:35:31.954] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=3, z=-187}
+[29Dec2024 23:35:31.954] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=3, z=-186}
+[29Dec2024 23:35:31.956] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-4, z=-184}
+[29Dec2024 23:35:31.956] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=682, y=-2, z=-188}
+[29Dec2024 23:35:31.956] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-3, z=-188}
+[29Dec2024 23:35:31.957] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=681, y=-2, z=-179}
+[29Dec2024 23:35:31.958] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-4, z=-183}
+[29Dec2024 23:35:31.959] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-1, z=-182}
+[29Dec2024 23:35:38.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:38.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:35:59.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:36:16.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:36:42.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:37:07.076] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:37:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has reached the goal [Half a flight]
+[29Dec2024 23:37:38.076] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:37:52.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:37:57.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:37:57.414] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[29Dec2024 23:37:57.423] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_6 is being run through DFU (hash 1fb7c9ab0aaf7a35b6a923795c4ae5b38d9ded0b73e065c65b86ca7ebfadff14), this will cause launch time delays
+[29Dec2024 23:37:57.534] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_3 is being run through DFU (hash 12513970bce74eba74a6b41bae2df8647b4bd26da3c4e614be438ebe0ee9edf5), this will cause launch time delays
+[29Dec2024 23:37:57.542] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9 is being run through DFU (hash 6293df4c81894ce8b3e8a56abaa01424c1a6cac59c614e082db3158d42ddd31f), this will cause launch time delays
+[29Dec2024 23:37:57.548] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1 is being run through DFU (hash d9769b372e1f6e6c891c4f74447e7bed82796805d5da8a574172198704f843cc), this will cause launch time delays
+[29Dec2024 23:37:57.557] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0 is being run through DFU (hash 7a1d81e5236fab5256b01fb5cdd848d9073d3d1e037a83520b6e09076e4d121f), this will cause launch time delays
+[29Dec2024 23:37:57.566] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_5 is being run through DFU (hash b1657af517de8ee46edf86e07bc19226fecd5eaa4be6c6dbb02766ed320b6a8e), this will cause launch time delays
+[29Dec2024 23:37:57.574] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_10 is being run through DFU (hash 738eb05ca3f051edf6dcfc5f67265b68a5a34f2e6f3d378e9f14f12b821e1506), this will cause launch time delays
+[29Dec2024 23:37:57.581] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_7 is being run through DFU (hash bb5404a6c2bc9e3bd439cfcb673c632864d292987d5e5a46f336605767b48f9e), this will cause launch time delays
+[29Dec2024 23:37:57.587] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_2 is being run through DFU (hash da7f1deb0b77b0f8667eda3ba3fda9c5c75ade4af3004c00c083f938648ff3e5), this will cause launch time delays
+[29Dec2024 23:37:57.593] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_4 is being run through DFU (hash f3932892b604600e428081e4a542935e9a00995b6c481c30adb1f6ab16bf7e79), this will cause launch time delays
+[29Dec2024 23:37:57.603] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_8 is being run through DFU (hash b7cc30a702c44a2cc0b28950c3bc152375e182e408805dbc64d257d156ecf007), this will cause launch time delays
+[29Dec2024 23:38:03.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:38:03.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:38:03.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:38:05.117] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[29Dec2024 23:38:05.118] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[29Dec2024 23:38:05.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:38:07.664] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[29Dec2024 23:38:08.136] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[29Dec2024 23:38:08.147] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[29Dec2024 23:38:08.165] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[29Dec2024 23:38:08.174] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[29Dec2024 23:38:08.181] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[29Dec2024 23:38:08.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:38:08.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:38:10.130] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[29Dec2024 23:38:10.130] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[29Dec2024 23:38:10.130] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[29Dec2024 23:38:10.301] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut2
+[29Dec2024 23:38:11.657] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[29Dec2024 23:38:11.798] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[29Dec2024 23:38:11.798] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[29Dec2024 23:38:11.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[29Dec2024 23:38:11.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[29Dec2024 23:38:11.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[29Dec2024 23:38:11.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[29Dec2024 23:38:11.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[29Dec2024 23:38:11.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[29Dec2024 23:38:11.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[29Dec2024 23:38:11.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[29Dec2024 23:38:11.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[29Dec2024 23:38:11.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[29Dec2024 23:38:14.717] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[29Dec2024 23:38:14.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[29Dec2024 23:38:14.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[29Dec2024 23:38:14.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[29Dec2024 23:38:14.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[29Dec2024 23:38:14.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[29Dec2024 23:38:14.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[29Dec2024 23:38:14.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[29Dec2024 23:38:14.790] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[29Dec2024 23:38:14.790] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[29Dec2024 23:38:14.790] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[29Dec2024 23:38:14.790] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[29Dec2024 23:38:14.790] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[29Dec2024 23:38:14.791] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[29Dec2024 23:38:26.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:38:28.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:38:47.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:38:48.720] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[29Dec2024 23:38:48.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[29Dec2024 23:38:48.737] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[29Dec2024 23:38:48.739] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[29Dec2024 23:38:48.740] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[29Dec2024 23:38:48.742] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[29Dec2024 23:38:55.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:05.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:07.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:15.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:22.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:22.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:22.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:24.259] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut6
+[29Dec2024 23:39:30.167] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[29Dec2024 23:39:30.178] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[29Dec2024 23:39:30.197] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_1 is being run through DFU (hash 27a5819e089e69b638f99afa4b0105b5b46d21c207dbe76709c0e743455e5fc5), this will cause launch time delays
+[29Dec2024 23:39:30.221] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[29Dec2024 23:39:30.234] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_0 is being run through DFU (hash ed8131990a308c38696bda81118b71a38fca0d13f70cc445daf62e0c4b16c211), this will cause launch time delays
+[29Dec2024 23:39:30.369] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[29Dec2024 23:39:30.383] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_1 is being run through DFU (hash caea454d4d20ad79fd13ad746cb244d0e797c28aabdba2f3dc7e0aa3caeddc72), this will cause launch time delays
+[29Dec2024 23:39:30.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[29Dec2024 23:39:30.517] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[29Dec2024 23:39:32.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:32.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:39:32.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:04.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:09.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:09.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:13.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:13.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:26.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:47.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:47.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:47.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:51.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:51.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:40:54.820] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
+[29Dec2024 23:40:56.311] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
+[29Dec2024 23:40:56.312] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
+[29Dec2024 23:40:56.312] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
+[29Dec2024 23:40:56.313] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
+[29Dec2024 23:40:58.319] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
+[29Dec2024 23:40:58.320] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
+[29Dec2024 23:40:58.320] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[29Dec2024 23:40:58.480] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
+[29Dec2024 23:40:58.481] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
+[29Dec2024 23:41:11.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:28.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:28.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:30.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:33.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:33.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:49.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:51.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:52.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:41:52.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:14.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:14.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:19.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:19.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:19.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:20.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:22.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:22.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:22.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:27.005] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/savanna/savanna_engineer is being run through DFU (hash f70499419f5541ba9708ace998aa0a2010ebe44f4c414679c0d74fef669e6ee1), this will cause launch time delays
+[29Dec2024 23:42:27.065] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/savanna/savanna_woodworker is being run through DFU (hash 361b6609ad8a3ce68908743819cb3d211e2ca872dbbbe4d001403cecb6b7fd56), this will cause launch time delays
+[29Dec2024 23:42:27.069] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/savanna/savanna_florist is being run through DFU (hash ca4c37400ef14e0a7d03692a7100d3acf9e973e18d924ead853de0d710a9ded6), this will cause launch time delays
+[29Dec2024 23:42:27.074] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:rito_village_goddess_statue is being run through DFU (hash 33bf53b8dd30e9b8987fdbb7eb91e9da8d2df7975be4ddfca87cb9830013a94d), this will cause launch time delays
+[29Dec2024 23:42:27.077] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/savanna/savanna_hunter is being run through DFU (hash cecd6af3b8e2c77d642adc4fae0e38ffabf1465401e32626f9dbdc70ce7f8577), this will cause launch time delays
+[29Dec2024 23:42:27.133] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/savanna/savanna_oceanographer is being run through DFU (hash a94176e93f41e83d86355f5c92755c7f9a7320ad541b3bee7a089c4b47fefe9f), this will cause launch time delays
+[29Dec2024 23:42:27.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:27.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:27.366] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:savanna_village_horned_statue is being run through DFU (hash edbbb4a8ed38953f7261e2f8c314e53df7ee11581af8123d1e8c31d31af06a78), this will cause launch time delays
+[29Dec2024 23:42:30.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:30.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:41.191] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[29Dec2024 23:42:41.196] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_4 is being run through DFU (hash 003b0f3decfb3c6dacb55d12b727270cd28fea9596f5404f58537e34e2c1a1d8), this will cause launch time delays
+[29Dec2024 23:42:41.267] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_5 is being run through DFU (hash 983d376b47555c98682deb38679d2e37044eeaf15ca0fb00d1205d2286749fcc), this will cause launch time delays
+[29Dec2024 23:42:41.271] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_2 is being run through DFU (hash 9b231039554aed49aa38dfb8ad0a062a077ccc7dc5e1b441ff9033646f4c0475), this will cause launch time delays
+[29Dec2024 23:42:41.274] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_0 is being run through DFU (hash 6b7e335d1ed90894a5457d394be4a406e70d2414b78bf9fd1aab757a195cccd9), this will cause launch time delays
+[29Dec2024 23:42:41.280] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_3 is being run through DFU (hash bb0c6c1ae5a93fe676aec3040b72eb3df5666d87be8d8b2bc6055ec3287e850e), this will cause launch time delays
+[29Dec2024 23:42:41.285] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_1 is being run through DFU (hash cf5f72d36c0acd106ea311020ff053812fbd11ff1b7a3c66ce87438de158931c), this will cause launch time delays
+[29Dec2024 23:42:58.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:42:58.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:02.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:03.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:05.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:09.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:43:09.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:43:09.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:10.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:10.076] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:10.199] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:10.430] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:26.249] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_4 is being run through DFU (hash 9a325c1c61a4e7574103858486b5a9c17628c6a645d8ca996252f4c80c38ee3d), this will cause launch time delays
+[29Dec2024 23:43:26.291] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[29Dec2024 23:43:26.304] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[29Dec2024 23:43:26.313] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[29Dec2024 23:43:26.320] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[29Dec2024 23:43:26.322] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[29Dec2024 23:43:26.334] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[29Dec2024 23:43:26.348] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[29Dec2024 23:43:33.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:37.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:45.682] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[29Dec2024 23:43:45.691] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[29Dec2024 23:43:45.730] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_2 is being run through DFU (hash 760dec3596d4f025d1c5cf7f2641193f29d165e4ae8fcc344d06435c6a32ac58), this will cause launch time delays
+[29Dec2024 23:43:45.736] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_extend is being run through DFU (hash 02ee3988b5d2680529a144e8cf8abc69d71a674c8feb16925c671e0fedbca653), this will cause launch time delays
+[29Dec2024 23:43:45.764] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_1 is being run through DFU (hash adaed3887d364fa75eefd197e87cd281605ab4caec4441c9abadf64eb3836771), this will cause launch time delays
+[29Dec2024 23:43:45.776] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[29Dec2024 23:43:45.809] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_3 is being run through DFU (hash dd6e993a8f3fde05c1064302501b0f9ffdeda06349ef4a8f150ff16d4d8bcaf8), this will cause launch time delays
+[29Dec2024 23:43:45.819] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_2 is being run through DFU (hash 442197eb9b8936253bfa6786eb8731c4c7825592357132b3ea17461b5971b58c), this will cause launch time delays
+[29Dec2024 23:43:45.827] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[29Dec2024 23:43:45.834] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[29Dec2024 23:43:45.850] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[29Dec2024 23:43:45.871] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[29Dec2024 23:43:45.880] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[29Dec2024 23:43:51.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Take Aim]
+[29Dec2024 23:43:54.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:54.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:54.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:54.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[29Dec2024 23:43:54.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already

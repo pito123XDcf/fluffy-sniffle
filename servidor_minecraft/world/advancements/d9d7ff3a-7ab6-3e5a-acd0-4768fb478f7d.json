@@ -405,6 +405,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-29 23:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-29 23:05:21 +0000"
@@ -693,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-29 23:05:59 +0000"
@@ -828,6 +840,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-29 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 23:35:26 +0000"
     },
     "done": true
   },
@@ -1287,6 +1305,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-12-29 23:37:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2024-12-29 23:17:32 +0000"
@@ -1344,6 +1368,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 22:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-29 23:35:26 +0000"
     },
     "done": true
   },
@@ -1515,11 +1545,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-29 23:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-29 22:49:30 +0000",
       "minecraft:birch_forest": "2024-12-29 22:29:22 +0000",
       "minecraft:savanna_plateau": "2024-12-29 23:28:23 +0000",
+      "minecraft:sparse_jungle": "2024-12-29 23:40:55 +0000",
       "minecraft:river": "2024-12-29 22:33:11 +0000",
       "minecraft:stony_shore": "2024-12-29 22:22:25 +0000",
       "minecraft:forest": "2024-12-29 22:29:32 +0000",
@@ -1528,6 +1565,12 @@
       "minecraft:plains": "2024-12-29 22:48:22 +0000"
     },
     "done": false
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-12-29 23:37:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
