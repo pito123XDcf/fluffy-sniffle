@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-29 22:16:40 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 22:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 22:21:39 +0000"
@@ -179,6 +191,24 @@
     },
     "done": true
   },
+  "faded_conquest_2:dlslain": {
+    "criteria": {
+      "dlslain_0": "2024-12-29 22:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
@@ -241,13 +271,29 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-29 22:23:53 +0000"
+      "minecraft:skeleton": "2024-12-29 22:23:53 +0000",
+      "minecraft:piglin_brute": "2024-12-29 22:47:19 +0000",
+      "minecraft:silverfish": "2024-12-29 22:29:05 +0000",
+      "minecraft:stray": "2024-12-29 22:30:32 +0000",
+      "minecraft:zombie": "2024-12-29 22:28:53 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-29 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
     },
     "done": true
   },
@@ -269,6 +315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-29 22:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-29 22:15:19 +0000"
@@ -287,9 +339,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-29 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:28:50 +0000"
     },
     "done": true
   },
@@ -317,6 +387,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
@@ -326,6 +402,18 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 22:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
     },
     "done": true
   },
@@ -344,6 +432,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-29 22:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
     },
     "done": true
   },
@@ -395,6 +489,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-29 22:16:40 +0000"
@@ -422,6 +522,24 @@
   "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:23:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
     },
     "done": true
   },
@@ -503,9 +621,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-29 22:35:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 22:35:17 +0000"
     },
     "done": true
   },
@@ -521,11 +657,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-29 22:22:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
@@ -547,10 +695,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-29 22:27:36 +0000",
       "log_spam_fixer": "2024-12-29 22:14:53 +0000"
     },
-    "done": true
+    "done": false
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
@@ -606,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-29 22:35:40 +0000"
+    },
+    "done": true
+  },
   "under_the_moon:in_the_pines": {
     "criteria": {
       "in_the_pines_0": "2024-12-29 22:17:23 +0000"
@@ -633,6 +786,18 @@
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2024-12-29 22:23:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
     },
     "done": true
   },
@@ -707,6 +872,12 @@
       "custom_test_name": "2024-12-29 22:14:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
@@ -792,11 +963,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 22:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-29 22:23:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
@@ -816,6 +999,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2024-12-29 22:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-29 22:20:30 +0000"
@@ -827,6 +1016,12 @@
       "in_water": "2024-12-29 22:16:51 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
@@ -846,11 +1041,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
@@ -906,6 +1119,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-29 22:35:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:47:50 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2024-12-29 22:14:53 +0000"
@@ -948,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-29 22:23:33 +0000"
@@ -966,6 +1203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-29 22:14:53 +0000"
@@ -975,6 +1218,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-29 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
     },
     "done": true
   },
@@ -998,10 +1247,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-29 22:44:01 +0000",
+      "minecraft:sunflower_plains": "2024-12-29 22:40:14 +0000",
       "minecraft:birch_forest": "2024-12-29 22:16:30 +0000",
       "minecraft:river": "2024-12-29 22:16:52 +0000",
+      "minecraft:stony_shore": "2024-12-29 22:44:50 +0000",
+      "minecraft:grove": "2024-12-29 22:44:41 +0000",
       "minecraft:forest": "2024-12-29 22:16:42 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-29 22:14:53 +0000"
+      "minecraft:flower_forest": "2024-12-29 22:40:35 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-29 22:14:53 +0000",
+      "minecraft:plains": "2024-12-29 22:34:55 +0000"
     },
     "done": false
   },
@@ -1032,6 +1287,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-12-29 22:20:30 +0000",
+      "cooked_mutton": "2024-12-29 22:36:59 +0000",
       "cooked_cod": "2024-12-29 22:26:32 +0000",
       "mutton": "2024-12-29 22:22:29 +0000",
       "cooked_salmon": "2024-12-29 22:23:39 +0000"
@@ -1041,6 +1297,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-29 22:21:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-29 22:28:46 +0000"
     },
     "done": true
   },
@@ -1056,6 +1318,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-29 22:15:19 +0000"
@@ -1065,6 +1333,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 22:30:05 +0000"
     },
     "done": true
   },
