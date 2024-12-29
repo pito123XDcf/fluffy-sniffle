@@ -1385,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-29 23:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 23:00:18 +0000"
@@ -1394,6 +1400,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/stripped_witch_hazel_log_from_witch_hazel_log_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-29 23:17:56 +0000"
     },
     "done": true
   },
@@ -1661,9 +1673,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 23:20:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-29 22:16:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-29 23:16:38 +0000"
     },
     "done": true
   },
@@ -1826,6 +1850,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-29 22:44:01 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-29 23:15:48 +0000",
       "minecraft:taiga": "2024-12-29 23:06:31 +0000",
       "minecraft:deep_ocean": "2024-12-29 22:53:27 +0000",
       "minecraft:sunflower_plains": "2024-12-29 22:40:14 +0000",
@@ -1838,6 +1863,7 @@
       "minecraft:flower_forest": "2024-12-29 22:40:35 +0000",
       "minecraft:frozen_peaks": "2024-12-29 22:51:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 22:14:53 +0000",
+      "minecraft:meadow": "2024-12-29 23:15:03 +0000",
       "minecraft:plains": "2024-12-29 22:34:55 +0000"
     },
     "done": false
@@ -1877,10 +1903,13 @@
       "cooked_porkchop": "2024-12-29 23:01:01 +0000",
       "chicken": "2024-12-29 22:20:30 +0000",
       "cooked_mutton": "2024-12-29 22:36:59 +0000",
+      "cooked_beef": "2024-12-29 23:20:26 +0000",
       "apple": "2024-12-29 23:06:10 +0000",
       "cooked_cod": "2024-12-29 22:26:32 +0000",
       "mutton": "2024-12-29 22:22:29 +0000",
       "bread": "2024-12-29 22:49:08 +0000",
+      "cookie": "2024-12-29 23:16:13 +0000",
+      "cooked_chicken": "2024-12-29 23:16:21 +0000",
       "cooked_salmon": "2024-12-29 22:23:39 +0000"
     },
     "done": false
