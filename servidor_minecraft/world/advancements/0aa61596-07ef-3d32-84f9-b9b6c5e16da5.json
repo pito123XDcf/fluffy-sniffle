@@ -1742,15 +1742,39 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-29 21:50:56 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2024-12-29 21:44:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-29 21:52:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-29 21:47:02 +0000"
+    },
+    "done": true
+  },
   "under_the_moon:sends_quills_down_my_spine": {
     "criteria": {
       "sends_quills_down_my_spine_0": "2024-12-29 21:42:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-29 21:46:56 +0000"
     },
     "done": true
   },

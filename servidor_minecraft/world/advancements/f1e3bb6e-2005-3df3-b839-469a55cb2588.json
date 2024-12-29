@@ -113,10 +113,12 @@
       "minecraft:beach": "2024-12-28 21:12:54 +0000",
       "minecraft:dark_forest": "2024-12-28 21:59:43 +0000",
       "minecraft:river": "2024-12-28 21:12:59 +0000",
+      "minecraft:dripstone_caves": "2024-12-29 21:50:36 +0000",
       "minecraft:forest": "2024-12-28 20:58:10 +0000",
       "minecraft:ocean": "2024-12-28 22:18:46 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 21:28:30 +0000",
       "minecraft:meadow": "2024-12-28 22:39:49 +0000",
+      "minecraft:savanna": "2024-12-29 21:49:39 +0000",
       "minecraft:plains": "2024-12-28 20:56:13 +0000"
     },
     "done": false
@@ -1949,84 +1951,47 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-29 21:41:48 +0000",
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-29 21:40:49 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
+      "has_pickup_upgrade": "2024-12-29 21:53:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
+      "coded_trigger": "2024-12-29 21:53:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "under_the_moon:sends_quills_down_my_spine": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
+      "sends_quills_down_my_spine_0": "2024-12-29 21:47:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
+      "coded_trigger": "2024-12-29 21:50:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
+      "has_magic_scroll": "2024-12-29 21:53:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 21:41:32 +0000"
+      "has_pickup_upgrade": "2024-12-29 21:53:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
