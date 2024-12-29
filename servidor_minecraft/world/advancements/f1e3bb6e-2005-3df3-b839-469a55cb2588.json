@@ -689,6 +689,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-29 23:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
@@ -1010,6 +1016,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-29 22:48:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-29 23:29:00 +0000"
     },
     "done": true
   },
@@ -1412,6 +1424,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-29 22:16:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 23:26:19 +0000"
     },
     "done": true
   },
@@ -1860,6 +1878,7 @@
       "minecraft:grove": "2024-12-29 22:44:41 +0000",
       "minecraft:forest": "2024-12-29 22:16:42 +0000",
       "minecraft:ocean": "2024-12-29 22:53:10 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-29 23:31:34 +0000",
       "minecraft:flower_forest": "2024-12-29 22:40:35 +0000",
       "minecraft:frozen_peaks": "2024-12-29 22:51:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 22:14:53 +0000",
