@@ -299,9 +299,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-29 23:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 23:00:18 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2024-12-29 23:52:01 +0000"
     },
     "done": true
   },
@@ -549,6 +561,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 22:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-29 23:57:23 +0000"
     },
     "done": true
   },
@@ -870,6 +888,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-29 23:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
@@ -1083,6 +1107,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-29 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-29 23:53:41 +0000"
     },
     "done": true
   },
@@ -1302,6 +1332,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-29 23:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:15:19 +0000"
@@ -1337,6 +1373,12 @@
       "give_recipe": "2024-12-29 22:49:58 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2024-12-29 23:52:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
@@ -1548,6 +1590,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-29 23:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 22:21:39 +0000"
@@ -1677,6 +1725,12 @@
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2024-12-29 23:33:24 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:pbslain": {
+    "criteria": {
+      "pbslain_0": "2024-12-29 23:45:33 +0000"
     },
     "done": true
   },
@@ -1830,6 +1884,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-29 23:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:50:00 +0000"
@@ -1939,12 +1999,14 @@
       "minecraft:stony_shore": "2024-12-29 22:44:50 +0000",
       "minecraft:grove": "2024-12-29 22:44:41 +0000",
       "minecraft:forest": "2024-12-29 22:16:42 +0000",
+      "minecraft:jungle": "2024-12-30 00:00:04 +0000",
       "minecraft:ocean": "2024-12-29 22:53:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-29 23:31:34 +0000",
       "minecraft:flower_forest": "2024-12-29 22:40:35 +0000",
       "minecraft:frozen_peaks": "2024-12-29 22:51:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 22:14:53 +0000",
       "minecraft:meadow": "2024-12-29 23:15:03 +0000",
+      "minecraft:savanna": "2024-12-29 23:54:35 +0000",
       "minecraft:plains": "2024-12-29 22:34:55 +0000"
     },
     "done": false
@@ -2022,6 +2084,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-29 22:50:00 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-29 23:53:15 +0000"
     },
     "done": true
   },
