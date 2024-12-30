@@ -108,9 +108,11 @@
       "minecraft:savanna_plateau": "2024-12-29 23:28:23 +0000",
       "minecraft:sparse_jungle": "2024-12-29 23:40:55 +0000",
       "minecraft:river": "2024-12-29 22:33:11 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-30 00:13:49 +0000",
       "minecraft:stony_shore": "2024-12-29 22:22:25 +0000",
       "minecraft:forest": "2024-12-29 22:29:32 +0000",
       "minecraft:jungle": "2024-12-30 00:03:18 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-30 00:17:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 22:20:03 +0000",
       "minecraft:savanna": "2024-12-29 23:29:02 +0000",
       "minecraft:plains": "2024-12-29 22:48:22 +0000"
@@ -595,6 +597,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-29 22:42:08 +0000",
       "cooked_mutton": "2024-12-29 22:28:06 +0000",
+      "golden_apple": "2024-12-30 00:18:24 +0000",
       "cooked_chicken": "2024-12-29 22:30:09 +0000"
     },
     "done": false
@@ -1763,6 +1766,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 00:23:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-29 23:58:44 +0000"
@@ -1907,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-30 00:19:03 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2024-12-30 00:06:51 +0000"
@@ -1916,6 +1997,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-12-30 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-30 00:18:04 +0000"
     },
     "done": true
   },
@@ -1967,6 +2054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-30 00:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-30 00:02:42 +0000"
@@ -1982,6 +2075,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-30 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-30 00:18:04 +0000"
     },
     "done": true
   },
