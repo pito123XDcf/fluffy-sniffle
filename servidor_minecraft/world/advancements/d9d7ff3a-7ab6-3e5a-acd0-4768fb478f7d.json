@@ -103,6 +103,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-01 23:49:51 +0000",
       "minecraft:cherry_grove": "2024-12-29 22:49:30 +0000",
       "minecraft:birch_forest": "2024-12-29 22:29:22 +0000",
       "minecraft:savanna_plateau": "2024-12-29 23:28:23 +0000",
@@ -112,6 +113,7 @@
       "minecraft:stony_shore": "2024-12-29 22:22:25 +0000",
       "minecraft:forest": "2024-12-29 22:29:32 +0000",
       "minecraft:jungle": "2024-12-30 00:03:18 +0000",
+      "minecraft:ocean": "2025-01-01 23:49:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-30 00:17:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 22:20:03 +0000",
       "minecraft:savanna": "2024-12-29 23:29:02 +0000",
@@ -2111,6 +2113,84 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-12-30 00:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-01-01 23:47:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-01-01 23:47:28 +0000"
     },
     "done": true
   },

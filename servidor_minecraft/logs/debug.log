@@ -4549,3 +4549,304 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jan2025 23:48:35.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has reached the goal [Fighting Nightmares]
 [01Jan2025 23:48:39.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [01Jan2025 23:48:42.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:48:45.697] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut4
+[01Jan2025 23:48:48.920] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hazel_tree5
+[01Jan2025 23:48:48.922] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hazel_tree2
+[01Jan2025 23:48:48.932] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hazel_tree4
+[01Jan2025 23:48:52.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:48:52.511] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hazel_tree6
+[01Jan2025 23:48:55.443] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hazel_tree1
+[01Jan2025 23:48:58.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[01Jan2025 23:48:58.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0
+[01Jan2025 23:48:58.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0
+[01Jan2025 23:48:58.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[01Jan2025 23:48:58.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[01Jan2025 23:48:58.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_4
+[01Jan2025 23:48:58.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1
+[01Jan2025 23:48:58.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[01Jan2025 23:48:58.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_5
+[01Jan2025 23:48:58.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_7
+[01Jan2025 23:48:58.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_6
+[01Jan2025 23:48:59.742] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:mahogany_tree1
+[01Jan2025 23:48:59.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[01Jan2025 23:49:16.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:49:16.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:49:25.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Peruvillager> oe recuerda que ya no hay el 100% de llave encantada pq ya acabo navidad
+[01Jan2025 23:49:36.768] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut7
+[01Jan2025 23:49:48.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IkappoAnyho_> xd
+[01Jan2025 23:49:49.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:49:50.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IkappoAnyho_> nosabia eso
+[01Jan2025 23:50:01.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:02.689] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[01Jan2025 23:50:03.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:05.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:14.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 10.399386968419662,0.0,-0.11266865293146111
+[01Jan2025 23:50:14.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 10.799363393978979,0.0,-0.11700206265959423
+[01Jan2025 23:50:14.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.19933981961924,0.0,-0.12133547238772735
+[01Jan2025 23:50:14.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.599316245332375,0.0,-0.12566888211586047
+[01Jan2025 23:50:14.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.999292671110993,0.0,-0.1300022918439936
+[01Jan2025 23:50:14.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 12.399269096948615,0.0,-0.1343357015721267
+[01Jan2025 23:50:14.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 12.799245522839328,0.0,-0.13866911130025983
+[01Jan2025 23:50:14.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.19922194877779,0.0,-0.14300252102839295
+[01Jan2025 23:50:14.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.59919837475934,0.0,-0.14733593075652607
+[01Jan2025 23:50:14.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.999174800779542,0.0,-0.1516693404846592
+[01Jan2025 23:50:14.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 14.399151226834647,0.0,-0.1560027502127923
+[01Jan2025 23:50:14.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 14.799127652921129,0.0,-0.16033615994092543
+[01Jan2025 23:50:14.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.199104079035806,0.0,-0.16466956966905855
+[01Jan2025 23:50:14.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.599080505175834,0.0,-0.16900297939719167
+[01Jan2025 23:50:14.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.999056931338714,0.0,-0.17333638912532479
+[01Jan2025 23:50:14.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 16.39903335752217,0.0,-0.1776697988534579
+[01Jan2025 23:50:14.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 16.79900978372416,0.0,-0.18200320858159102
+[01Jan2025 23:50:14.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.19898620994286,0.0,-0.18633661830972414
+[01Jan2025 23:50:14.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.598962636176452,0.0,-0.19067002803785726
+[01Jan2025 23:50:14.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.998939062423574,0.0,-0.19500343776599038
+[01Jan2025 23:50:14.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 18.39891548868286,0.0,-0.1993368474941235
+[01Jan2025 23:50:14.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 18.79889191495306,0.0,-0.20367025722225662
+[01Jan2025 23:50:14.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.19886834123315,0.0,-0.20800366695038974
+[01Jan2025 23:50:14.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.59884476752211,0.0,-0.21233707667852286
+[01Jan2025 23:50:14.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 10.399387077172833,0.0,-0.11266865293146111
+[01Jan2025 23:50:14.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 10.799363503483391,0.0,-0.11700206265959423
+[01Jan2025 23:50:14.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.199339929799748,0.0,-0.12133547238772735
+[01Jan2025 23:50:14.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.599316356121335,0.0,-0.12566888211586047
+[01Jan2025 23:50:14.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.999292782447583,0.0,-0.1300022918439936
+[01Jan2025 23:50:14.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 12.399269208778037,0.0,-0.1343357015721267
+[01Jan2025 23:50:14.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 12.799245635112356,0.0,-0.13866911130025983
+[01Jan2025 23:50:14.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.199222061450087,0.0,-0.14300252102839295
+[01Jan2025 23:50:14.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.599198487790886,0.0,-0.14733593075652607
+[01Jan2025 23:50:14.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.999174914134528,0.0,-0.1516693404846592
+[01Jan2025 23:50:14.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 14.399151340480671,0.0,-0.1560027502127923
+[01Jan2025 23:50:14.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 10.399387084980162,0.0,-0.11266865293146111
+[01Jan2025 23:50:14.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 10.799363511344609,0.0,-0.11700206265959423
+[01Jan2025 23:50:14.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.19933993770951,0.0,-0.12133547238772735
+[01Jan2025 23:50:14.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.599316364074753,0.0,-0.12566888211586047
+[01Jan2025 23:50:14.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 11.999292790440336,0.0,-0.1300022918439936
+[01Jan2025 23:50:14.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 12.39926921680626,0.0,-0.1343357015721267
+[01Jan2025 23:50:14.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 12.799245643172412,0.0,-0.13866911130025983
+[01Jan2025 23:50:14.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.199222069538791,0.0,-0.14300252102839295
+[01Jan2025 23:50:14.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.599198495905398,0.0,-0.14733593075652607
+[01Jan2025 23:50:14.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.999174922272232,0.0,-0.1516693404846592
+[01Jan2025 23:50:14.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 14.39915134863918,0.0,-0.1560027502127923
+[01Jan2025 23:50:14.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 14.799127775006355,0.0,-0.16033615994092543
+[01Jan2025 23:50:14.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.199104201373643,0.0,-0.16466956966905855
+[01Jan2025 23:50:14.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.599080627741046,0.0,-0.16900297939719167
+[01Jan2025 23:50:14.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.999057054108562,0.0,-0.17333638912532479
+[01Jan2025 23:50:14.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 16.39903348047619,0.0,-0.1776697988534579
+[01Jan2025 23:50:14.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 16.799009906843935,0.0,-0.18200320858159102
+[01Jan2025 23:50:14.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.198986333211792,0.0,-0.18633661830972414
+[01Jan2025 23:50:14.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.598962759579763,0.0,-0.19067002803785726
+[01Jan2025 23:50:14.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.998939185947734,0.0,-0.19500343776599038
+[01Jan2025 23:50:14.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 18.398915612315818,0.0,-0.1993368474941235
+[01Jan2025 23:50:14.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 18.798892038683903,0.0,-0.20367025722225662
+[01Jan2025 23:50:14.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.1988684650521,0.0,-0.20800366695038974
+[01Jan2025 23:50:14.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.5988448914203,0.0,-0.21233707667852286
+[01Jan2025 23:50:14.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.998821317788497,0.0,-0.21667048640665598
+[01Jan2025 23:50:14.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 20.39879774415681,0.0,-0.2210038961347891
+[01Jan2025 23:50:14.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 20.79877417052512,0.0,-0.22533730586292222
+[01Jan2025 23:50:14.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 21.198750596893433,0.0,-0.22967071559105534
+[01Jan2025 23:50:14.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 21.59872702326186,0.0,-0.23400412531918846
+[01Jan2025 23:50:14.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 21.998703449630284,0.0,-0.23833753504732158
+[01Jan2025 23:50:14.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 22.39867987599871,0.0,-0.2426709447754547
+[01Jan2025 23:50:14.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 22.798656302367135,0.0,-0.24700435450358782
+[01Jan2025 23:50:14.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 23.19863272873556,0.0,-0.25133776423172094
+[01Jan2025 23:50:15.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.599198496487816,0.0,-0.14733593075652607
+[01Jan2025 23:50:15.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 13.999174922856355,0.0,-0.1516693404846592
+[01Jan2025 23:50:15.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 14.399151349224894,0.0,-0.1560027502127923
+[01Jan2025 23:50:15.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 14.799127775593433,0.0,-0.16033615994092543
+[01Jan2025 23:50:15.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.199104201961973,0.0,-0.16466956966905855
+[01Jan2025 23:50:15.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.599080628330512,0.0,-0.16900297939719167
+[01Jan2025 23:50:15.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 15.999057054699051,0.0,-0.17333638912532479
+[01Jan2025 23:50:15.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 16.39903348106759,0.0,-0.1776697988534579
+[01Jan2025 23:50:15.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 16.79900990743613,0.0,-0.18200320858159102
+[01Jan2025 23:50:15.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.19898633380467,0.0,-0.18633661830972414
+[01Jan2025 23:50:15.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.598962760173208,0.0,-0.19067002803785726
+[01Jan2025 23:50:15.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 17.998939186541747,0.0,-0.19500343776599038
+[01Jan2025 23:50:15.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 18.398915612910287,0.0,-0.1993368474941235
+[01Jan2025 23:50:15.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 18.798892039278826,0.0,-0.20367025722225662
+[01Jan2025 23:50:15.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.198868465647365,0.0,-0.20800366695038974
+[01Jan2025 23:50:15.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.598844892015904,0.0,-0.21233707667852286
+[01Jan2025 23:50:15.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! 19.998821318384444,0.0,-0.21667048640665598
+[01Jan2025 23:50:16.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved too quickly! -19.998821309484924,0.0,0.21667048640665598
+[01Jan2025 23:50:16.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 2.110870869853329
+[01Jan2025 23:50:16.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.9714077503754197
+[01Jan2025 23:50:16.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.845890946170357
+[01Jan2025 23:50:16.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.732925825378402
+[01Jan2025 23:50:16.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.6312572193589858
+[01Jan2025 23:50:16.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.5397554763654853
+[01Jan2025 23:50:16.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.4574039098528146
+[01Jan2025 23:50:16.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.3832875019548965
+[01Jan2025 23:50:16.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 1.316582736613782
+[01Jan2025 23:50:38.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:38.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:38.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:40.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.5909076475616075
+[01Jan2025 23:50:40.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3978704687941672
+[01Jan2025 23:50:44.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3836046081897848
+[01Jan2025 23:50:44.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3886043147114151
+[01Jan2025 23:50:44.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.3981037569833461
+[01Jan2025 23:50:44.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.41165296132317053
+[01Jan2025 23:50:44.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Peruvillager) moved wrongly! 0.4288469514276585
+[01Jan2025 23:50:49.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:49.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:50:55.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:12.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:12.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:20.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:22.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:22.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:43.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:43.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:51:43.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:52:11.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:53:09.342] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_03
+[01Jan2025 23:53:09.352] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_01
+[01Jan2025 23:53:09.360] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_07
+[01Jan2025 23:53:09.362] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_02
+[01Jan2025 23:53:09.368] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_04
+[01Jan2025 23:53:09.377] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_06
+[01Jan2025 23:53:09.379] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_01
+[01Jan2025 23:53:09.383] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_02
+[01Jan2025 23:53:09.387] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_04
+[01Jan2025 23:53:09.397] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_06
+[01Jan2025 23:53:09.401] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_08
+[01Jan2025 23:53:09.403] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/turn_02
+[01Jan2025 23:53:09.406] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_03
+[01Jan2025 23:53:09.407] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_03
+[01Jan2025 23:53:09.411] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/turn_01
+[01Jan2025 23:53:09.417] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/turn_04
+[01Jan2025 23:53:09.421] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/corner_01
+[01Jan2025 23:53:09.423] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/straight_05
+[01Jan2025 23:53:09.426] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_05
+[01Jan2025 23:53:09.433] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/streets/crossroad_02
+[01Jan2025 23:53:09.436] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_03
+[01Jan2025 23:53:09.437] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_01
+[01Jan2025 23:53:09.438] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_04
+[01Jan2025 23:53:09.438] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/terminators/terminator_02
+[01Jan2025 23:53:09.537] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:coven/nature_coven/houses/empty
+[01Jan2025 23:53:12.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:53:24.021] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:53:59.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[01Jan2025 23:54:16.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:54:16.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:54:41.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:54:41.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:54:50.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[01Jan2025 23:55:06.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:06.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:35.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:36.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:53.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:55.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:55.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:55.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:55:55.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:56:06.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has reached the goal [Fortuitous Militia]
+[01Jan2025 23:56:16.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:56:16.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Knowledge raises the soul]
+[01Jan2025 23:56:17.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:56:30.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:56:38.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:56:59.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:11.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:11.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:16.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:18.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:18.422] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:24.723] [Server thread/WARN] [tombstone/]: The death event of the player IkappoAnyho_ was canceled by another mod
+[01Jan2025 23:57:24.762] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[01Jan2025 23:57:29.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:30.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:31.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ was blown up by Creeper
+[01Jan2025 23:57:31.199] [Server thread/DEBUG] [tombstone/]: A new grave of the player IkappoAnyho_ was created at position [x:-825, y:80, z:1670, dim:minecraft:overworld]
+[01Jan2025 23:57:31.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:31.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:31.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:31.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:35.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:57:42.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Set own game mode to Creative Mode]
+[01Jan2025 23:58:19.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:58:20.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:58:26.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:58:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IkappoAnyho_: Set own game mode to Survival Mode]
+[01Jan2025 23:58:27.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:58:42.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:58:48.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:58:48.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:58:50.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:59:10.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[01Jan2025 23:59:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has reached the goal [Hidden Books]
