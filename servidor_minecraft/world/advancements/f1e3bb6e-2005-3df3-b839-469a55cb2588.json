@@ -2339,77 +2339,53 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "tombstone:adventure/easy_opening": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "coded_trigger": "2025-01-01 23:42:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "fighting_nightmares_0": "2025-01-01 23:48:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "coded_trigger": "2025-01-01 23:56:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "coded_trigger": "2025-01-01 23:56:16 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "has_paper": "2025-01-01 23:59:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "morevillagers:recipes/blueprint_table": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "has_paper": "2025-01-01 23:59:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "has_paper": "2025-01-01 23:59:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:adventure/hidden_books": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
+      "book": "2025-01-01 23:59:12 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-02 00:35:16 +0000"
-    },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/root": {
     "criteria": {
@@ -2417,9 +2393,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:fighting_nightmares": {
+  "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
-      "fighting_nightmares_0": "2025-01-01 23:48:35 +0000"
+      "horrorofthe_depths_0": "2025-01-02 00:13:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-02 00:13:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-01-02 00:23:07 +0000"
     },
     "done": true
   },
@@ -2435,39 +2423,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-01-01 23:56:06 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/easy_opening": {
-    "criteria": {
-      "coded_trigger": "2025-01-01 23:42:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-01-01 23:59:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-02 00:31:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hidden_books": {
-    "criteria": {
-      "book": "2025-01-01 23:59:12 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-01 23:56:16 +0000"
     },
     "done": true
   },
@@ -2477,45 +2435,57 @@
     },
     "done": true
   },
-  "morevillagers:recipes/blueprint_table": {
-    "criteria": {
-      "has_paper": "2025-01-01 23:59:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-01-02 00:13:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-02 00:31:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-01-01 23:59:11 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horrorofthe_depths": {
-    "criteria": {
-      "horrorofthe_depths_0": "2025-01-02 00:13:01 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-01-02 00:23:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-02 00:31:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/free_soul": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 03:05:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 03:05:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-01-02 03:04:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-01-02 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 03:05:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 03:05:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 03:04:23 +0000"
     },
     "done": true
   },
