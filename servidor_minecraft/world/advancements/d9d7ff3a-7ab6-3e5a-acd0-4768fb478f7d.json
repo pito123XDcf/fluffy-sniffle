@@ -603,8 +603,10 @@
     "criteria": {
       "cooked_porkchop": "2024-12-29 22:42:08 +0000",
       "cooked_mutton": "2024-12-29 22:28:06 +0000",
+      "apple": "2025-01-02 03:15:02 +0000",
       "golden_apple": "2024-12-30 00:18:24 +0000",
       "rotten_flesh": "2025-01-02 01:24:46 +0000",
+      "golden_carrot": "2025-01-02 03:16:07 +0000",
       "cooked_chicken": "2024-12-29 22:30:09 +0000"
     },
     "done": false
@@ -2725,6 +2727,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-01-02 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "theinkarena:blot_defeated": {
+    "criteria": {
+      "blot_defeated_0": "2025-01-02 03:17:14 +0000"
     },
     "done": true
   },
