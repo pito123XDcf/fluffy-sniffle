@@ -113,6 +113,7 @@
       "minecraft:river": "2024-12-29 22:33:11 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 00:13:49 +0000",
       "minecraft:stony_shore": "2024-12-29 22:22:25 +0000",
+      "minecraft:snowy_taiga": "2025-01-02 00:49:25 +0000",
       "minecraft:forest": "2024-12-29 22:29:32 +0000",
       "minecraft:jungle": "2024-12-30 00:03:18 +0000",
       "minecraft:ocean": "2025-01-01 23:49:31 +0000",
@@ -2156,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-02 00:58:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-02 00:26:39 +0000"
@@ -2219,6 +2226,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-02 00:53:34 +0000"
     },
     "done": true
   },
@@ -2330,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-02 00:54:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2025-01-02 00:42:32 +0000"
@@ -2411,6 +2430,12 @@
   "minecraft:recipes/misc/shaper_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-02 00:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-02 00:54:06 +0000"
     },
     "done": true
   },
@@ -2519,6 +2544,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-02 00:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-02 00:54:06 +0000"
     },
     "done": true
   },

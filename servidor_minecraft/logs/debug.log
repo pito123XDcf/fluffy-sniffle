@@ -5608,3 +5608,42 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jan2025 00:50:22.205] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
 [02Jan2025 00:50:32.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
 [02Jan2025 00:50:32.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:51:21.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:51:52.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:52:07.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:53:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Ol' Betsy]
+[02Jan2025 00:53:44.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:54:16.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:54:16.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 00:55:24.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:55:24.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:55:24.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:55:27.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:55:27.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:55:33.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-13, y=102, z=-69}
+[02Jan2025 00:55:33.418] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-13, y=107, z=-74}
+[02Jan2025 00:55:33.418] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=111, z=-77}
+[02Jan2025 00:55:33.427] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=105, z=-76}
+[02Jan2025 00:55:40.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:55:45.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:56:28.851] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[02Jan2025 00:56:34.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:56:34.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:56:42.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:56:57.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:56:58.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:56:59.263] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[02Jan2025 00:56:59.264] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[02Jan2025 00:56:59.264] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[02Jan2025 00:56:59.264] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[02Jan2025 00:58:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peruvillager has made the advancement [Take Aim]
+[02Jan2025 00:58:26.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:58:26.220] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:59:16.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:59:16.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 00:59:24.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:59:38.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:59:44.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 00:59:44.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 01:00:37.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
+[02Jan2025 01:00:38.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mofus_better_end_:mitespikerball but it was marked as removed already
