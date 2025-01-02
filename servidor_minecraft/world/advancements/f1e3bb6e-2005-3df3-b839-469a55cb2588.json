@@ -2106,7 +2106,8 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "plains": "2024-12-29 23:52:01 +0000"
+      "plains": "2024-12-29 23:52:01 +0000",
+      "savanna": "2025-01-02 00:24:18 +0000"
     },
     "done": false
   },
@@ -2401,6 +2402,12 @@
   "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
       "horrorofthe_depths_0": "2025-01-02 00:13:01 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-01-02 00:23:07 +0000"
     },
     "done": true
   },
