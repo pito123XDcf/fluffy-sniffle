@@ -2158,6 +2158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-02 00:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:48:43 +0000"
@@ -2191,6 +2197,12 @@
   "tombstone:adventure/combine_in_inventory": {
     "criteria": {
       "coded_trigger": "2025-01-01 23:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-02 00:01:51 +0000"
     },
     "done": true
   },
