@@ -1565,6 +1565,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "brewingstand": "2025-01-02 03:35:57 +0000",
       "smithingtable": "2025-01-02 00:43:58 +0000",
       "blastfurnace": "2024-12-29 23:19:31 +0000"
     },
@@ -2734,78 +2735,77 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "theinkarena:blot_defeated": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-01-02 03:34:04 +0000",
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "blot_defeated_0": "2025-01-02 03:17:14 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "has_coal_block": "2025-01-02 03:22:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "has_log": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "give_recipe": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "give_recipe": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "has_log": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "give_recipe": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/woodcutting/acacia/stripped_acacia_log_from_acacia_log_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "give_recipe": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "has_logs": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "has_log": "2025-01-02 03:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 03:33:52 +0000"
+      "has_gold_block": "2025-01-02 03:25:27 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-02 03:26:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
@@ -2819,51 +2819,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-01-02 03:25:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-02 03:29:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 03:22:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-01-02 03:22:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-01-02 03:22:45 +0000"
-    },
-    "done": true
-  },
-  "theinkarena:blot_defeated": {
-    "criteria": {
-      "blot_defeated_0": "2025-01-02 03:17:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-01-02 03:29:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-01-02 03:22:45 +0000"
     },
     "done": true
   },
@@ -2897,12 +2861,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 03:22:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-02 03:29:14 +0000"
@@ -2915,23 +2873,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-01-02 03:22:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-02 03:29:14 +0000"
     },
     "done": true
-  },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_illusioner": "2025-01-02 03:31:45 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
@@ -2948,12 +2894,6 @@
   "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-02 03:29:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/acacia/stripped_acacia_log_from_acacia_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-01-02 03:22:45 +0000"
     },
     "done": true
   },
@@ -2981,18 +2921,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-01-02 03:22:45 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/kill_illusioner": {
-    "criteria": {
-      "killed_illusioner": "2025-01-02 03:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-02 03:29:14 +0000"
@@ -3017,15 +2945,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "has_log": "2025-01-02 03:22:45 +0000"
+      "killed_illusioner": "2025-01-02 03:31:45 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-01-02 03:31:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-01-02 03:26:50 +0000"
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-02 03:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hidden_books": {
+    "criteria": {
+      "book": "2025-01-02 03:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:pbslain": {
+    "criteria": {
+      "pbslain_0": "2025-01-02 03:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-02 03:42:36 +0000"
     },
     "done": true
   },
