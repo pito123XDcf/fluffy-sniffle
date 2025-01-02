@@ -2999,6 +2999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-02 03:52:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-01-02 03:42:36 +0000"
@@ -3008,6 +3014,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-02 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:in_the_pines": {
+    "criteria": {
+      "in_the_pines_0": "2025-01-02 03:54:00 +0000"
     },
     "done": true
   },
@@ -3038,6 +3050,12 @@
   "faded_conquest_2:pbslain": {
     "criteria": {
       "pbslain_0": "2025-01-02 03:35:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-02 03:53:17 +0000"
     },
     "done": true
   },
