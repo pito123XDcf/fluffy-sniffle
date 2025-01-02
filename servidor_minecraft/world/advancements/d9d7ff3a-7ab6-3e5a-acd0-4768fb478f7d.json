@@ -604,6 +604,7 @@
       "cooked_porkchop": "2024-12-29 22:42:08 +0000",
       "cooked_mutton": "2024-12-29 22:28:06 +0000",
       "golden_apple": "2024-12-30 00:18:24 +0000",
+      "rotten_flesh": "2025-01-02 01:24:46 +0000",
       "cooked_chicken": "2024-12-29 22:30:09 +0000"
     },
     "done": false
@@ -2121,6 +2122,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-02 01:29:23 +0000",
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-02 01:29:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-01-02 00:41:26 +0000"
@@ -2640,6 +2714,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-01-02 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-02 01:23:45 +0000"
     },
     "done": true
   },
